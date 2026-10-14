@@ -1,0 +1,28 @@
+{
+  "elementy": [
+    {
+      "miejsce_kalendarz": "Kryta pływalnia, Pułtusk",
+      "dzien": "[DD]",
+      "miesiac": "XII",
+      "nazwa": "Zawody Mikołajkowe",
+      "opis": "Organizator: UKS Posejdon i MOSiR Pułtusk",
+      "miejsce": "Kryta pływalnia, Pułtusk"
+    },
+    {
+      "miejsce_kalendarz": "[miejsce]",
+      "dzien": "[DD]",
+      "miesiac": "[MM]",
+      "nazwa": "Zawody okręgowe",
+      "opis": "Okręg Warszawsko-Mazowiecki PZP",
+      "miejsce": "[miejsce]"
+    },
+    {
+      "miejsce_kalendarz": "[miejsce]",
+      "dzien": "[DD]",
+      "miesiac": "[MM]",
+      "nazwa": "[Nazwa zawodów]",
+      "opis": "[kategoria wiekowa]",
+      "miejsce": "[miejsce]"
+    }
+  ]
+}

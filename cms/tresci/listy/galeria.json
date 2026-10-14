@@ -1,0 +1,53 @@
+{
+  "elementy": [
+    {
+      "zdjecie": "assets/img/zawody/zawodnicy-uks-posejdon-z-dyplomami-final-omdo-2026.jpg",
+      "alt": "Zawodnicy UKS Posejdon z dyplomami na finale „Od Młodzika do Olimpijczyka” 2026",
+      "podpis": "Finał OMDO 2026",
+      "kategoria": "zaw",
+      "rozmiar": "duze"
+    },
+    {
+      "zdjecie": "assets/img/zawody/trener-uks-posejdon-dekoracja-zawody-dzien-dziecka-pultusk.jpg",
+      "alt": "Trener UKS Posejdon gratuluje zawodniczce na podium zawodów pływackich z okazji Dnia Dziecka w Pułtusku",
+      "podpis": "Treningi",
+      "kategoria": "tren",
+      "rozmiar": "zwykle"
+    },
+    {
+      "zdjecie": "assets/img/zawody/zawodniczka-uks-posejdon-z-trenerem-mistrzostwa-warszawy-2026.jpg",
+      "alt": "Zawodniczka UKS Posejdon z trenerem na Mistrzostwach Warszawy 2026",
+      "podpis": "Mistrzostwa Warszawy",
+      "kategoria": "zaw",
+      "rozmiar": "zwykle"
+    },
+    {
+      "zdjecie": "assets/img/foto/foto-21.jpg",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "podpis": "Zawody Mikołajkowe",
+      "kategoria": "wyd",
+      "rozmiar": "zwykle"
+    },
+    {
+      "zdjecie": "assets/img/zawody/podium-finalu-od-mlodzika-do-olimpijczyka-2026.jpg",
+      "alt": "Podium finału „Od Młodzika do Olimpijczyka” 2026 z zawodnikiem UKS Posejdon",
+      "podpis": "Podium OMDO",
+      "kategoria": "zaw",
+      "rozmiar": "zwykle"
+    },
+    {
+      "zdjecie": "assets/img/zawody/uks-posejdon-pultusk-mistrzostwa-warszawy-2026-druzyna.jpg",
+      "alt": "Drużyna UKS Posejdon – Athletic Pułtusk na Otwartych Letnich Mistrzostwach Warszawy 2026",
+      "podpis": "Wyjazd na Warszawiankę",
+      "kategoria": "wyj",
+      "rozmiar": "szerokie"
+    },
+    {
+      "zdjecie": "assets/img/foto/foto-24.jpg",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "podpis": "Wydarzenia",
+      "kategoria": "wyd",
+      "rozmiar": "szerokie"
+    }
+  ]
+}

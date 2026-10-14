@@ -1,0 +1,119 @@
+{
+  "pozycje": [
+    {
+      "tekst": "O klubie",
+      "link": "/o-klubie",
+      "podmenu": []
+    },
+    {
+      "tekst": "Treningi",
+      "link": "/treningi",
+      "podmenu": []
+    },
+    {
+      "tekst": "Sekcje",
+      "link": "",
+      "podmenu": [
+        {
+          "tekst": "Pływanie",
+          "link": "/treningi"
+        },
+        {
+          "tekst": "Pięciobój nowoczesny",
+          "link": "/piecioboj-nowoczesny"
+        },
+        {
+          "tekst": "Triathlon",
+          "link": "/triathlon"
+        }
+      ]
+    },
+    {
+      "tekst": "Trenerzy",
+      "link": "/o-klubie#trenerzy",
+      "podmenu": []
+    },
+    {
+      "tekst": "Zawodnicy",
+      "link": "./#sukcesy",
+      "podmenu": []
+    },
+    {
+      "tekst": "Sukcesy",
+      "link": "./#sukcesy",
+      "podmenu": []
+    },
+    {
+      "tekst": "Aktualności",
+      "link": "/aktualnosci",
+      "podmenu": []
+    },
+    {
+      "tekst": "Zawody",
+      "link": "./#zawody",
+      "podmenu": []
+    },
+    {
+      "tekst": "Galeria",
+      "link": "./#galeria",
+      "podmenu": []
+    },
+    {
+      "tekst": "Kontakt",
+      "link": "/kontakt",
+      "podmenu": []
+    }
+  ],
+  "stopka": [
+    {
+      "tytul": "Klub",
+      "linki": [
+        {
+          "tekst": "O klubie",
+          "link": "/o-klubie"
+        },
+        {
+          "tekst": "Trenerzy",
+          "link": "/o-klubie#trenerzy"
+        },
+        {
+          "tekst": "Pięciobój nowoczesny",
+          "link": "/piecioboj-nowoczesny"
+        },
+        {
+          "tekst": "Triathlon",
+          "link": "/triathlon"
+        },
+        {
+          "tekst": "Sukcesy",
+          "link": "./#sukcesy"
+        },
+        {
+          "tekst": "Galeria",
+          "link": "./#galeria"
+        }
+      ]
+    },
+    {
+      "tytul": "Dla rodziców",
+      "linki": [
+        {
+          "tekst": "Grafik zajęć",
+          "link": "/treningi#grafik"
+        },
+        {
+          "tekst": "Dokumenty",
+          "link": "/kontakt#dokumenty"
+        },
+        {
+          "tekst": "Opłaty",
+          "link": "/kontakt#oplaty"
+        },
+        {
+          "tekst": "Pytania i odpowiedzi",
+          "link": "/treningi#pytania"
+        }
+      ]
+    }
+  ]
+}

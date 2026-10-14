@@ -1,0 +1,378 @@
+{
+  "seo": {
+    "tytul": "Aktualności – UKS Posejdon – Athletic Pułtusk",
+    "opis": "Wyniki zawodów, ogłoszenia i wydarzenia klubu pływackiego UKS Posejdon – Athletic Pułtusk."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Aktualności",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Strona główna"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Aktualności"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tytuł strony",
+          "tekst": "Aktualności"
+        },
+        {
+          "id": "s1t4",
+          "opis": "Akapit",
+          "tekst": "Wyniki zawodów, ogłoszenia i wydarzenia z życia klubu."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. 15 medali na Mistrzostwach Warszawy",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Tekst",
+          "tekst": "Zawody"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Tekst",
+          "tekst": "12–13 czerwca 2026"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Nagłówek",
+          "tekst": "15 medali na Mistrzostwach Warszawy"
+        },
+        {
+          "id": "s2t4",
+          "opis": "Akapit",
+          "tekst": "Na 50-metrowej pływalni Warszawianki odbyły się Otwarte Letnie Mistrzostwa Warszawy w Pływaniu. Barwy klubu reprezentowali Róża Zimnicka, Adam Mroziewicz, Jan Zimnicki i Roman Łyszkowski. Zawodnicy zdobyli 15 medali i ustanowili wiele rekordów życiowych, a Adam Mroziewicz wygrał 200 m stylem motylkowym z czasem 2:37,89."
+        },
+        {
+          "id": "s2t5",
+          "opis": "Akapit",
+          "tekst": "Gratulujemy zawodnikom, a trenerowi Mariuszowi Mroziewiczowi dziękujemy za przygotowanie do startu."
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s2z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/zawody/15-medali-uks-posejdon-mistrzostwa-warszawy-2026.jpg",
+          "alt": "15 medali zdobytych przez zawodników UKS Posejdon na Mistrzostwach Warszawy 2026"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Finał „Od Młodzika do Olimpijczyka”",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Zawody · 23 czerwca 2026"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Nagłówek",
+          "tekst": "Finał „Od Młodzika do Olimpijczyka”"
+        },
+        {
+          "id": "s3t3",
+          "opis": "Akapit",
+          "tekst": "Nasi zawodnicy rywalizowali w finale ogólnopolskich zawodów z najlepszymi pływakami z całej Polski. Starty przyniosły wiele wartościowych wyników i rekordów życiowych. Trenerowi Mariuszowi Mroziewiczowi dziękujemy za przygotowanie zawodników."
+        },
+        {
+          "id": "s3t4",
+          "opis": "Akapit",
+          "tekst": "Klasyfikacja końcowa OMDO 2025/2026: Adam Mroziewicz (rocznik 2013) – 5. miejsce · Róża Zimnicka (rocznik 2016) – 6. miejsce"
+        },
+        {
+          "id": "s3t5",
+          "opis": "Opis tabeli (dla czytników ekranu)",
+          "tekst": "Wyniki finału OMDO 23.06.2026"
+        },
+        {
+          "id": "s3t6",
+          "opis": "Komórka tabeli",
+          "tekst": "Zawodnik"
+        },
+        {
+          "id": "s3t7",
+          "opis": "Komórka tabeli",
+          "tekst": "Konkurencja"
+        },
+        {
+          "id": "s3t8",
+          "opis": "Komórka tabeli",
+          "tekst": "Miejsce"
+        },
+        {
+          "id": "s3t9",
+          "opis": "Komórka tabeli",
+          "tekst": "Czas"
+        },
+        {
+          "id": "s3t10",
+          "opis": "Komórka tabeli",
+          "tekst": "Adam Mroziewicz"
+        },
+        {
+          "id": "s3t11",
+          "opis": "Komórka tabeli",
+          "tekst": "100 m stylem motylkowym"
+        },
+        {
+          "id": "s3t12",
+          "opis": "Komórka tabeli",
+          "tekst": "2."
+        },
+        {
+          "id": "s3t13",
+          "opis": "Komórka tabeli",
+          "tekst": "1:05,05"
+        },
+        {
+          "id": "s3t14",
+          "opis": "Komórka tabeli",
+          "tekst": "Adam Mroziewicz"
+        },
+        {
+          "id": "s3t15",
+          "opis": "Komórka tabeli",
+          "tekst": "100 m stylem dowolnym"
+        },
+        {
+          "id": "s3t16",
+          "opis": "Komórka tabeli",
+          "tekst": "5."
+        },
+        {
+          "id": "s3t17",
+          "opis": "Komórka tabeli",
+          "tekst": "1:02,26"
+        },
+        {
+          "id": "s3t18",
+          "opis": "Komórka tabeli",
+          "tekst": "Róża Zimnicka"
+        },
+        {
+          "id": "s3t19",
+          "opis": "Komórka tabeli",
+          "tekst": "50 m stylem dowolnym"
+        },
+        {
+          "id": "s3t20",
+          "opis": "Komórka tabeli",
+          "tekst": "4."
+        },
+        {
+          "id": "s3t21",
+          "opis": "Komórka tabeli",
+          "tekst": "34,86"
+        },
+        {
+          "id": "s3t22",
+          "opis": "Komórka tabeli",
+          "tekst": "Róża Zimnicka"
+        },
+        {
+          "id": "s3t23",
+          "opis": "Komórka tabeli",
+          "tekst": "50 m stylem grzbietowym"
+        },
+        {
+          "id": "s3t24",
+          "opis": "Komórka tabeli",
+          "tekst": "4."
+        },
+        {
+          "id": "s3t25",
+          "opis": "Komórka tabeli",
+          "tekst": "41,33"
+        },
+        {
+          "id": "s3t26",
+          "opis": "Komórka tabeli",
+          "tekst": "Róża Zimnicka"
+        },
+        {
+          "id": "s3t27",
+          "opis": "Komórka tabeli",
+          "tekst": "50 m stylem motylkowym"
+        },
+        {
+          "id": "s3t28",
+          "opis": "Komórka tabeli",
+          "tekst": "6."
+        },
+        {
+          "id": "s3t29",
+          "opis": "Komórka tabeli",
+          "tekst": "39,72"
+        },
+        {
+          "id": "s3t30",
+          "opis": "Komórka tabeli",
+          "tekst": "Roman Łyszkowski"
+        },
+        {
+          "id": "s3t31",
+          "opis": "Komórka tabeli",
+          "tekst": "100 m stylem klasycznym"
+        },
+        {
+          "id": "s3t32",
+          "opis": "Komórka tabeli",
+          "tekst": "4."
+        },
+        {
+          "id": "s3t33",
+          "opis": "Komórka tabeli",
+          "tekst": "1:20,08"
+        },
+        {
+          "id": "s3t34",
+          "opis": "Komórka tabeli",
+          "tekst": "Roman Łyszkowski"
+        },
+        {
+          "id": "s3t35",
+          "opis": "Komórka tabeli",
+          "tekst": "100 m stylem grzbietowym"
+        },
+        {
+          "id": "s3t36",
+          "opis": "Komórka tabeli",
+          "tekst": "6."
+        },
+        {
+          "id": "s3t37",
+          "opis": "Komórka tabeli",
+          "tekst": "1:15,67"
+        },
+        {
+          "id": "s3t38",
+          "opis": "Komórka tabeli",
+          "tekst": "Antoni Cendrowski"
+        },
+        {
+          "id": "s3t39",
+          "opis": "Komórka tabeli",
+          "tekst": "100 m stylem klasycznym"
+        },
+        {
+          "id": "s3t40",
+          "opis": "Komórka tabeli",
+          "tekst": "13."
+        },
+        {
+          "id": "s3t41",
+          "opis": "Komórka tabeli",
+          "tekst": "1:43,91"
+        },
+        {
+          "id": "s3t42",
+          "opis": "Komórka tabeli",
+          "tekst": "Antoni Cendrowski"
+        },
+        {
+          "id": "s3t43",
+          "opis": "Komórka tabeli",
+          "tekst": "100 m stylem grzbietowym"
+        },
+        {
+          "id": "s3t44",
+          "opis": "Komórka tabeli",
+          "tekst": "17."
+        },
+        {
+          "id": "s3t45",
+          "opis": "Komórka tabeli",
+          "tekst": "1:31,07"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Kalendarz",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Tekst przycisku",
+          "tekst": "Wszystkie"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Tekst przycisku",
+          "tekst": "Zawody"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Tekst przycisku",
+          "tekst": "Ogłoszenia"
+        },
+        {
+          "id": "s4t4",
+          "opis": "Tekst przycisku",
+          "tekst": "Wydarzenia"
+        },
+        {
+          "id": "s4t5",
+          "opis": "Tekst przycisku",
+          "tekst": "Dotacje"
+        },
+        {
+          "id": "s4t6",
+          "opis": "Akapit",
+          "tekst": "Brak wpisów w tej kategorii."
+        },
+        {
+          "id": "s4t7",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Kalendarz"
+        },
+        {
+          "id": "s4t8",
+          "opis": "Podtytuł",
+          "tekst": "Najbliższe zawody"
+        },
+        {
+          "id": "s4t9",
+          "opis": "Podtytuł",
+          "tekst": "Bądź na bieżąco"
+        },
+        {
+          "id": "s4t10",
+          "opis": "Akapit",
+          "tekst": "Relacje z zawodów i zdjęcia publikujemy też w mediach społecznościowych."
+        },
+        {
+          "id": "s4t11",
+          "opis": "Podtytuł",
+          "tekst": "Dołącz do klubu"
+        },
+        {
+          "id": "s4t12",
+          "opis": "Akapit",
+          "tekst": "Zapisy na treningi przez cały sezon."
+        },
+        {
+          "id": "s4t13",
+          "opis": "Tekst przycisku",
+          "tekst": "Zobacz treningi"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

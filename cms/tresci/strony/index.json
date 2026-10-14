@@ -1,0 +1,1094 @@
+{
+  "seo": {
+    "tytul": "UKS Posejdon – Athletic Pułtusk – klub pływacki",
+    "opis": "UKS Posejdon – Athletic Pułtusk – klub pływacki od 2012 r. Nauka pływania i treningi dla dzieci, młodzieży i dorosłych na krytej pływalni w Pułtusku."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. UKS Posejdon – Athletic Pułtusk",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Uczniowski Klub Sportowy · od 2012"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Tytuł strony",
+          "tekst": "UKS Posejdon"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tekst",
+          "tekst": "Athletic Pułtusk"
+        },
+        {
+          "id": "s1t4",
+          "opis": "Akapit",
+          "tekst": "Pasja. Trening. Rywalizacja."
+        },
+        {
+          "id": "s1t5",
+          "opis": "Fragment akapitu (wyróżniony)",
+          "tekst": "Sukces."
+        },
+        {
+          "id": "s1t6",
+          "opis": "Akapit",
+          "tekst": "Uczymy pływać, trenujemy i startujemy w zawodach. Dzieci, młodzież i dorośli na krytej pływalni w Pułtusku."
+        },
+        {
+          "id": "s1t7",
+          "opis": "Tekst przycisku",
+          "tekst": "Dołącz do nas"
+        },
+        {
+          "id": "s1t8",
+          "opis": "Tekst przycisku",
+          "tekst": "Zobacz treningi"
+        },
+        {
+          "id": "s1t9",
+          "opis": "Akapit",
+          "tekst": "Czerwiec 2026"
+        },
+        {
+          "id": "s1t10",
+          "opis": "Wyróżniony tekst",
+          "tekst": "15 medali na Mistrzostwach Warszawy"
+        },
+        {
+          "id": "s1t11",
+          "opis": "Tekst",
+          "tekst": "Otwarte Letnie Mistrzostwa Warszawy · basen 50 m"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s1z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/foto/foto-03.jpg",
+          "alt": "Pływalnia podczas zawodów"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. Przewijany pasek z hasłami",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Tekst",
+          "tekst": "Trenuj"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Tekst",
+          "tekst": "Rozwijaj się"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Tekst",
+          "tekst": "Startuj"
+        },
+        {
+          "id": "s2t4",
+          "opis": "Tekst",
+          "tekst": "Trenuj"
+        },
+        {
+          "id": "s2t5",
+          "opis": "Tekst",
+          "tekst": "Rozwijaj się"
+        },
+        {
+          "id": "s2t6",
+          "opis": "Tekst",
+          "tekst": "Startuj"
+        },
+        {
+          "id": "s2t7",
+          "opis": "Tekst",
+          "tekst": "Trenuj"
+        },
+        {
+          "id": "s2t8",
+          "opis": "Tekst",
+          "tekst": "Rozwijaj się"
+        },
+        {
+          "id": "s2t9",
+          "opis": "Tekst",
+          "tekst": "Startuj"
+        },
+        {
+          "id": "s2t10",
+          "opis": "Tekst",
+          "tekst": "Trenuj"
+        },
+        {
+          "id": "s2t11",
+          "opis": "Tekst",
+          "tekst": "Rozwijaj się"
+        },
+        {
+          "id": "s2t12",
+          "opis": "Tekst",
+          "tekst": "Startuj"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Najważniejsze informacje",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Kim jesteśmy?"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Tekst",
+          "tekst": "Klub pływacki z licencją PZP, działający w Pułtusku od 2012 roku."
+        },
+        {
+          "id": "s3t3",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Gdzie trenujemy?"
+        },
+        {
+          "id": "s3t4",
+          "opis": "Tekst",
+          "tekst": "Kryta pływalnia, ul. Burmistrza St. Śniegockiego 3, Pułtusk."
+        },
+        {
+          "id": "s3t5",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Co słychać?"
+        },
+        {
+          "id": "s3t6",
+          "opis": "Tekst",
+          "tekst": "Wyniki zawodów, ogłoszenia i najbliższe starty klubu."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Uczymy, trenujemy i bawimy się pływaniem",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "O klubie"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Nagłówek",
+          "tekst": "Uczymy, trenujemy i bawimy się pływaniem"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Akapit",
+          "tekst": "UKS Posejdon prowadzi naukę i doskonalenie pływania dzieci, młodzieży i dorosłych. Przygotowujemy młodych zawodników do rywalizacji sportowej i skupiamy pływaków z powiatu pułtuskiego oraz powiatów sąsiednich."
+        },
+        {
+          "id": "s4t4",
+          "opis": "Punkt listy",
+          "tekst": "Licencja Polskiego Związku Pływackiego"
+        },
+        {
+          "id": "s4t5",
+          "opis": "Punkt listy",
+          "tekst": "Doświadczona kadra trenerska"
+        },
+        {
+          "id": "s4t6",
+          "opis": "Punkt listy",
+          "tekst": "Od nauki pływania do zawodów"
+        },
+        {
+          "id": "s4t7",
+          "opis": "Punkt listy",
+          "tekst": "Organizator zawodów w Pułtusku"
+        },
+        {
+          "id": "s4t8",
+          "opis": "Tekst przycisku",
+          "tekst": "Poznaj nasz klub"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s4z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/foto/foto-02.jpg",
+          "alt": "Drużyna UKS Posejdon na zawodach"
+        },
+        {
+          "id": "s4z2",
+          "opis": "Zdjęcie 2",
+          "plik": "assets/img/foto/foto-09.jpg",
+          "alt": "Trener z zawodnikami przy basenie"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "nazwa": "5. Znajdź trening dla siebie",
+      "teksty": [
+        {
+          "id": "s5t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Treningi"
+        },
+        {
+          "id": "s5t2",
+          "opis": "Nagłówek",
+          "tekst": "Znajdź trening"
+        },
+        {
+          "id": "s5t3",
+          "opis": "Nagłówek",
+          "tekst": "dla siebie"
+        },
+        {
+          "id": "s5t4",
+          "opis": "Akapit",
+          "tekst": "Od pierwszych ruchów w wodzie po starty w zawodach. Pomożemy dobrać grupę do wieku i umiejętności."
+        },
+        {
+          "id": "s5t5",
+          "opis": "Tekst",
+          "tekst": "A"
+        },
+        {
+          "id": "s5t6",
+          "opis": "Podtytuł",
+          "tekst": "Grupa A"
+        },
+        {
+          "id": "s5t7",
+          "opis": "Tekst",
+          "tekst": "Basen sportowy"
+        },
+        {
+          "id": "s5t8",
+          "opis": "Tekst",
+          "tekst": "Pon, Śr, Pt · 17:30–18:45"
+        },
+        {
+          "id": "s5t9",
+          "opis": "Punkt listy",
+          "tekst": "Mariusz Mroziewicz"
+        },
+        {
+          "id": "s5t10",
+          "opis": "Punkt listy",
+          "tekst": "Tory 2, 3, 4"
+        },
+        {
+          "id": "s5t11",
+          "opis": "Tekst linku",
+          "tekst": "Sprawdź szczegóły"
+        },
+        {
+          "id": "s5t12",
+          "opis": "Tekst",
+          "tekst": "B"
+        },
+        {
+          "id": "s5t13",
+          "opis": "Podtytuł",
+          "tekst": "Grupa B"
+        },
+        {
+          "id": "s5t14",
+          "opis": "Tekst",
+          "tekst": "Basen sportowy"
+        },
+        {
+          "id": "s5t15",
+          "opis": "Tekst",
+          "tekst": "Pon, Śr, Pt · 19:00–20:00"
+        },
+        {
+          "id": "s5t16",
+          "opis": "Punkt listy",
+          "tekst": "Mariusz Mroziewicz"
+        },
+        {
+          "id": "s5t17",
+          "opis": "Punkt listy",
+          "tekst": "Tory 2, 3"
+        },
+        {
+          "id": "s5t18",
+          "opis": "Tekst linku",
+          "tekst": "Sprawdź szczegóły"
+        },
+        {
+          "id": "s5t19",
+          "opis": "Tekst",
+          "tekst": "C"
+        },
+        {
+          "id": "s5t20",
+          "opis": "Podtytuł",
+          "tekst": "Grupa C"
+        },
+        {
+          "id": "s5t21",
+          "opis": "Tekst",
+          "tekst": "Basen sportowy"
+        },
+        {
+          "id": "s5t22",
+          "opis": "Tekst",
+          "tekst": "Pon, Śr · 17:00–18:00"
+        },
+        {
+          "id": "s5t23",
+          "opis": "Punkt listy",
+          "tekst": "Mariusz Mroziewicz, Franciszek Łyszkowski"
+        },
+        {
+          "id": "s5t24",
+          "opis": "Punkt listy",
+          "tekst": "Tory 2, 3"
+        },
+        {
+          "id": "s5t25",
+          "opis": "Tekst linku",
+          "tekst": "Sprawdź szczegóły"
+        },
+        {
+          "id": "s5t26",
+          "opis": "Tekst",
+          "tekst": "D"
+        },
+        {
+          "id": "s5t27",
+          "opis": "Podtytuł",
+          "tekst": "Grupa D"
+        },
+        {
+          "id": "s5t28",
+          "opis": "Tekst",
+          "tekst": "Basen rekreacyjny"
+        },
+        {
+          "id": "s5t29",
+          "opis": "Tekst",
+          "tekst": "Pon · 18:00–19:00"
+        },
+        {
+          "id": "s5t30",
+          "opis": "Punkt listy",
+          "tekst": "Alicja Jagiełło, Mariusz Osica"
+        },
+        {
+          "id": "s5t31",
+          "opis": "Punkt listy",
+          "tekst": "Tor 1"
+        },
+        {
+          "id": "s5t32",
+          "opis": "Tekst linku",
+          "tekst": "Sprawdź szczegóły"
+        },
+        {
+          "id": "s5t33",
+          "opis": "Tekst",
+          "tekst": "E"
+        },
+        {
+          "id": "s5t34",
+          "opis": "Podtytuł",
+          "tekst": "Grupa E"
+        },
+        {
+          "id": "s5t35",
+          "opis": "Tekst",
+          "tekst": "Basen rekreacyjny"
+        },
+        {
+          "id": "s5t36",
+          "opis": "Tekst",
+          "tekst": "6–7 lat"
+        },
+        {
+          "id": "s5t37",
+          "opis": "Tekst",
+          "tekst": "Pon · od 19:00"
+        },
+        {
+          "id": "s5t38",
+          "opis": "Punkt listy",
+          "tekst": "Alicja Jagiełło, Mariusz Osica"
+        },
+        {
+          "id": "s5t39",
+          "opis": "Punkt listy",
+          "tekst": "Tor 1"
+        },
+        {
+          "id": "s5t40",
+          "opis": "Tekst linku",
+          "tekst": "Sprawdź szczegóły"
+        },
+        {
+          "id": "s5t41",
+          "opis": "Akapit",
+          "tekst": "Nie wiesz, którą grupę wybrać? Trener oceni umiejętności dziecka na pierwszych zajęciach."
+        },
+        {
+          "id": "s5t42",
+          "opis": "Tekst przycisku",
+          "tekst": "Zadzwoń: 515 156 693"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s5z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/treningi/wyscig-kraulem-zawody-plywackie-pultusk-uks-posejdon.jpg",
+          "alt": "Wyścig stylem dowolnym na zawodach pływackich na pływalni miejskiej w Pułtusku"
+        },
+        {
+          "id": "s5z2",
+          "opis": "Zdjęcie 2",
+          "plik": "assets/img/treningi/trening-plywacki-zawodnicy-uks-posejdon-pultusk-basen-sportowy.jpg",
+          "alt": "Zawodnicy UKS Posejdon – Athletic Pułtusk przy ścianie basenu sportowego przed startem"
+        },
+        {
+          "id": "s5z3",
+          "opis": "Zdjęcie 3",
+          "plik": "assets/img/foto/foto-09.jpg",
+          "alt": ""
+        },
+        {
+          "id": "s5z4",
+          "opis": "Zdjęcie 4",
+          "plik": "assets/img/foto/foto-05.jpg",
+          "alt": ""
+        },
+        {
+          "id": "s5z5",
+          "opis": "Zdjęcie 5",
+          "plik": "assets/img/treningi/zajecia-nauki-plywania-dla-dzieci-6-7-lat-uks-posejdon-pultusk.jpg",
+          "alt": "Zajęcia nauki pływania dla dzieci 6–7 lat z trenerką UKS Posejdon na pływalni w Pułtusku"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "nazwa": "6. Nasi trenerzy",
+      "teksty": [
+        {
+          "id": "s6t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Kadra"
+        },
+        {
+          "id": "s6t2",
+          "opis": "Nagłówek",
+          "tekst": "Nasi trenerzy"
+        },
+        {
+          "id": "s6t3",
+          "opis": "Akapit",
+          "tekst": "Ludzie, którzy od lat uczą dzieci pływać i prowadzą zawodników do medali."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s7",
+      "nazwa": "7. Sukcesy zawodników",
+      "teksty": [
+        {
+          "id": "s7t1",
+          "opis": "Tekst",
+          "tekst": "MEDAL"
+        },
+        {
+          "id": "s7t2",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Sportowe osiągnięcia"
+        },
+        {
+          "id": "s7t3",
+          "opis": "Nagłówek",
+          "tekst": "Sukcesy zawodników"
+        },
+        {
+          "id": "s7t4",
+          "opis": "Akapit",
+          "tekst": "Przez lata swojej działalności UKS Posejdon Pułtusk konsekwentnie rozwijał szkolenie pływackie dzieci i młodzieży, przygotowując zawodników do rywalizacji na szczeblu regionalnym i ogólnopolskim."
+        },
+        {
+          "id": "s7t5",
+          "opis": "Akapit",
+          "tekst": "Największym sukcesem sportowym w historii klubu jest"
+        },
+        {
+          "id": "s7t6",
+          "opis": "Fragment akapitu (wyróżniony)",
+          "tekst": "brązowy medal Mistrzostw Polski 14-latków"
+        },
+        {
+          "id": "s7t7",
+          "opis": "Akapit",
+          "tekst": "zdobyty przez Franciszka Łyszkowskiego, trenowanego przez Mariusza Mroziewicza."
+        },
+        {
+          "id": "s7t8",
+          "opis": "Akapit",
+          "tekst": "W finałach Mistrzostw Polski występowali również Oskar Hermanowski, Kacper Kowalczyk i Róża Sęczkowska, których trenerem był Mariusz Osica. Choć nie zdobyli medali mistrzostw kraju, sam awans do finałów stanowił znaczące osiągnięcie sportowe i potwierdzenie poziomu szkolenia prowadzonego w klubie."
+        },
+        {
+          "id": "s7t9",
+          "opis": "Akapit",
+          "tekst": "Sukcesy zawodników są efektem systematycznej pracy, zaangażowania trenerów oraz wieloletniego rozwoju pływania w Pułtusku. Stanowią powód do dumy dla całego klubu i lokalnej społeczności, a jednocześnie motywację do dalszego doskonalenia szkolenia i stwarzania młodym sportowcom warunków do osiągania kolejnych sukcesów."
+        },
+        {
+          "id": "s7t10",
+          "opis": "Tekst",
+          "tekst": "Złoty medal · 2026"
+        },
+        {
+          "id": "s7t11",
+          "opis": "Podtytuł",
+          "tekst": "Adam Mroziewicz"
+        },
+        {
+          "id": "s7t12",
+          "opis": "Akapit",
+          "tekst": "Otwarte Letnie Mistrzostwa Warszawy, pływalnia Warszawianki (basen 50 m), czerwiec 2026. Jedno z 15 miejsc medalowych klubu na tych zawodach."
+        },
+        {
+          "id": "s7t13",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Złoto"
+        },
+        {
+          "id": "s7t14",
+          "opis": "Wartość: Złoto",
+          "tekst": "2:37,89"
+        },
+        {
+          "id": "s7t15",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Styl motylkowy"
+        },
+        {
+          "id": "s7t16",
+          "opis": "Wartość: Styl motylkowy",
+          "tekst": "200 m"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s7z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/zawody/15-medali-uks-posejdon-mistrzostwa-warszawy-2026.jpg",
+          "alt": "Medale i dyplom Adama Mroziewicza z Otwartych Letnich Mistrzostw Warszawy 2026"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "nazwa": "8. Najnowsze informacje",
+      "teksty": [
+        {
+          "id": "s8t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Aktualności"
+        },
+        {
+          "id": "s8t2",
+          "opis": "Nagłówek",
+          "tekst": "Najnowsze informacje"
+        },
+        {
+          "id": "s8t3",
+          "opis": "Tekst przycisku",
+          "tekst": "Wszystkie aktualności"
+        },
+        {
+          "id": "s8t4",
+          "opis": "Tekst",
+          "tekst": "Zawody"
+        },
+        {
+          "id": "s8t5",
+          "opis": "Tekst",
+          "tekst": "23.06.2026"
+        },
+        {
+          "id": "s8t6",
+          "opis": "Podtytuł",
+          "tekst": "Finał „Od Młodzika do Olimpijczyka”"
+        },
+        {
+          "id": "s8t7",
+          "opis": "Akapit",
+          "tekst": "Srebro Adama Mroziewicza na 100 m stylem motylkowym (1:05,05) i miejsca w czołówce klasyfikacji końcowej OMDO 2025/2026."
+        },
+        {
+          "id": "s8t8",
+          "opis": "Tekst linku",
+          "tekst": "Czytaj więcej"
+        },
+        {
+          "id": "s8t9",
+          "opis": "Tekst",
+          "tekst": "Zawody"
+        },
+        {
+          "id": "s8t10",
+          "opis": "Tekst",
+          "tekst": "12–13.06.2026"
+        },
+        {
+          "id": "s8t11",
+          "opis": "Podtytuł",
+          "tekst": "15 medali na Mistrzostwach Warszawy"
+        },
+        {
+          "id": "s8t12",
+          "opis": "Akapit",
+          "tekst": "Róża Zimnicka, Adam Mroziewicz, Jan Zimnicki i Roman Łyszkowski wracają z Warszawianki z 15 medalami i rekordami życiowymi."
+        },
+        {
+          "id": "s8t13",
+          "opis": "Tekst linku",
+          "tekst": "Czytaj więcej"
+        },
+        {
+          "id": "s8t14",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Grafik"
+        },
+        {
+          "id": "s8t15",
+          "opis": "Wyróżniony tekst",
+          "tekst": "2026/2027"
+        },
+        {
+          "id": "s8t16",
+          "opis": "Tekst",
+          "tekst": "Ogłoszenia"
+        },
+        {
+          "id": "s8t17",
+          "opis": "Tekst",
+          "tekst": "Sezon 2026/2027"
+        },
+        {
+          "id": "s8t18",
+          "opis": "Podtytuł",
+          "tekst": "Grafik zajęć na sezon 2026/2027"
+        },
+        {
+          "id": "s8t19",
+          "opis": "Akapit",
+          "tekst": "Pięć grup treningowych, zajęcia w poniedziałki, środy i piątki. Sprawdź godziny swojej grupy."
+        },
+        {
+          "id": "s8t20",
+          "opis": "Tekst linku",
+          "tekst": "Czytaj więcej"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s8z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/zawody/uks-posejdon-pultusk-final-omdo-2026-druzyna-z-trenerem.jpg",
+          "alt": "Zawodnicy UKS Posejdon – Athletic Pułtusk z trenerem na finale OMDO 2026"
+        },
+        {
+          "id": "s8z2",
+          "opis": "Zdjęcie 2",
+          "plik": "assets/img/zawody/uks-posejdon-pultusk-mistrzostwa-warszawy-2026-druzyna.jpg",
+          "alt": "Drużyna UKS Posejdon – Athletic Pułtusk na Otwartych Letnich Mistrzostwach Warszawy 2026"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "nazwa": "9. Najbliższe zawody",
+      "teksty": [
+        {
+          "id": "s9t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Zawody i wydarzenia"
+        },
+        {
+          "id": "s9t2",
+          "opis": "Nagłówek",
+          "tekst": "Najbliższe zawody"
+        },
+        {
+          "id": "s9t3",
+          "opis": "Tekst linku",
+          "tekst": "Pełny kalendarz"
+        },
+        {
+          "id": "s9t4",
+          "opis": "Tekst",
+          "tekst": "Data"
+        },
+        {
+          "id": "s9t5",
+          "opis": "Tekst",
+          "tekst": "Nazwa zawodów"
+        },
+        {
+          "id": "s9t6",
+          "opis": "Tekst",
+          "tekst": "Miejsce"
+        },
+        {
+          "id": "s9t7",
+          "opis": "Tekst",
+          "tekst": "Szczegóły"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s10",
+      "nazwa": "10. Życie Posejdona",
+      "teksty": [
+        {
+          "id": "s10t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Galeria"
+        },
+        {
+          "id": "s10t2",
+          "opis": "Nagłówek",
+          "tekst": "Życie Posejdona"
+        },
+        {
+          "id": "s10t3",
+          "opis": "Tekst przycisku",
+          "tekst": "Wszystkie"
+        },
+        {
+          "id": "s10t4",
+          "opis": "Tekst przycisku",
+          "tekst": "Treningi"
+        },
+        {
+          "id": "s10t5",
+          "opis": "Tekst przycisku",
+          "tekst": "Zawody"
+        },
+        {
+          "id": "s10t6",
+          "opis": "Tekst przycisku",
+          "tekst": "Wyjazdy"
+        },
+        {
+          "id": "s10t7",
+          "opis": "Tekst przycisku",
+          "tekst": "Wydarzenia"
+        },
+        {
+          "id": "s10t8",
+          "opis": "Tekst przycisku",
+          "tekst": "Zobacz więcej zdjęć"
+        },
+        {
+          "id": "s10t9",
+          "opis": "Tekst przycisku",
+          "tekst": "Śledź nas na Facebooku"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s11",
+      "nazwa": "11. Wszystko, czego potrzebujesz w jednym miejscu",
+      "teksty": [
+        {
+          "id": "s11t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Dla rodziców"
+        },
+        {
+          "id": "s11t2",
+          "opis": "Nagłówek",
+          "tekst": "Wszystko, czego potrzebujesz w jednym miejscu"
+        },
+        {
+          "id": "s11t3",
+          "opis": "Akapit",
+          "tekst": "Organizacja zajęć, opłaty i dokumenty bez szukania po całej stronie."
+        },
+        {
+          "id": "s11t4",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Pytania o zajęcia?"
+        },
+        {
+          "id": "s11t5",
+          "opis": "Tekst linku",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s11t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Informacje organizacyjne"
+        },
+        {
+          "id": "s11t7",
+          "opis": "Tekst",
+          "tekst": "Pierwszy trening, co zabrać na basen, odbiór dzieci."
+        },
+        {
+          "id": "s11t8",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Harmonogram treningów"
+        },
+        {
+          "id": "s11t9",
+          "opis": "Tekst",
+          "tekst": "Aktualny grafik wszystkich grup na sezon 2026/2027."
+        },
+        {
+          "id": "s11t10",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Opłaty"
+        },
+        {
+          "id": "s11t11",
+          "opis": "Tekst",
+          "tekst": "Wpisowe (jednorazowo), składka członka wspierającego, dane do przelewu."
+        },
+        {
+          "id": "s11t12",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Dokumenty do pobrania"
+        },
+        {
+          "id": "s11t13",
+          "opis": "Tekst",
+          "tekst": "Deklaracja członkowska, regulamin klubu, oświadczenia."
+        },
+        {
+          "id": "s11t14",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Zasady uczestnictwa"
+        },
+        {
+          "id": "s11t15",
+          "opis": "Tekst",
+          "tekst": "Regulamin, bezpieczeństwo na basenie, RODO i wizerunek."
+        },
+        {
+          "id": "s11t16",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Kontakt z trenerami"
+        },
+        {
+          "id": "s11t17",
+          "opis": "Tekst",
+          "tekst": "Telefon, e-mail i godziny, w których trenerzy odpowiadają."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s12",
+      "nazwa": "12. Chcesz, aby Twoje dziecko rozpoczęło przygodę ze sportem?",
+      "teksty": [
+        {
+          "id": "s12t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Dołącz do Posejdona"
+        },
+        {
+          "id": "s12t2",
+          "opis": "Nagłówek",
+          "tekst": "Chcesz, aby Twoje dziecko rozpoczęło przygodę ze sportem?"
+        },
+        {
+          "id": "s12t3",
+          "opis": "Akapit",
+          "tekst": "Zadzwoń lub napisz. Dobierzemy grupę do wieku i umiejętności, a dziecko przyjdzie na pierwszy trening."
+        },
+        {
+          "id": "s12t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "1"
+        },
+        {
+          "id": "s12t5",
+          "opis": "Punkt listy",
+          "tekst": "Kontakt"
+        },
+        {
+          "id": "s12t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "2"
+        },
+        {
+          "id": "s12t7",
+          "opis": "Punkt listy",
+          "tekst": "Dobór grupy"
+        },
+        {
+          "id": "s12t8",
+          "opis": "Wyróżniony tekst",
+          "tekst": "3"
+        },
+        {
+          "id": "s12t9",
+          "opis": "Punkt listy",
+          "tekst": "Pierwszy trening"
+        },
+        {
+          "id": "s12t10",
+          "opis": "Tekst przycisku",
+          "tekst": "Dołącz do klubu"
+        },
+        {
+          "id": "s12t11",
+          "opis": "Tekst przycisku",
+          "tekst": "Skontaktuj się z nami"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s12z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/foto/foto-23.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "nazwa": "13. Skontaktuj się z nami",
+      "teksty": [
+        {
+          "id": "s13t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Kontakt"
+        },
+        {
+          "id": "s13t2",
+          "opis": "Nagłówek",
+          "tekst": "Skontaktuj się z nami"
+        },
+        {
+          "id": "s13t3",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Telefon"
+        },
+        {
+          "id": "s13t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s13t5",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "E-mail"
+        },
+        {
+          "id": "s13t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "posejdonpultusk@gmail.com"
+        },
+        {
+          "id": "s13t7",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Siedziba klubu"
+        },
+        {
+          "id": "s13t8",
+          "opis": "Wyróżniony tekst",
+          "tekst": "ul. New Britain 1"
+        },
+        {
+          "id": "s13t9",
+          "opis": "Wyróżniony tekst",
+          "tekst": "06-100 Pułtusk"
+        },
+        {
+          "id": "s13t10",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny kontaktu"
+        },
+        {
+          "id": "s13t11",
+          "opis": "Wyróżniony tekst",
+          "tekst": "[pn–pt, godz. __–__]"
+        },
+        {
+          "id": "s13t12",
+          "opis": "Tekst",
+          "tekst": "Kryta pływalnia · ul. Śniegockiego 3"
+        },
+        {
+          "id": "s13t13",
+          "opis": "Tekst",
+          "tekst": "Siedziba · SP nr 4"
+        },
+        {
+          "id": "s13t14",
+          "opis": "Tekst linku",
+          "tekst": "Otwórz w Mapach Google"
+        },
+        {
+          "id": "s13t15",
+          "opis": "Podtytuł",
+          "tekst": "Zapisy i pytania"
+        },
+        {
+          "id": "s13t16",
+          "opis": "Akapit",
+          "tekst": "Napisz, ile lat ma dziecko i jak radzi sobie w wodzie. Odpowiemy i zaproponujemy grupę."
+        },
+        {
+          "id": "s13t17",
+          "opis": "Tekst przycisku",
+          "tekst": "Formularz kontaktowy"
+        },
+        {
+          "id": "s13t18",
+          "opis": "Tekst przycisku",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s13t19",
+          "opis": "Akapit",
+          "tekst": "Relacje z zawodów na bieżąco w mediach społecznościowych"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s14",
+      "nazwa": "14. Wspierają nas",
+      "teksty": [
+        {
+          "id": "s14t1",
+          "opis": "Akapit",
+          "tekst": "Wspierają nas"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

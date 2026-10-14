@@ -1,0 +1,350 @@
+{
+  "seo": {
+    "tytul": "Pięciobój nowoczesny – UKS Posejdon – Athletic Pułtusk",
+    "opis": "Sekcja pięcioboju nowoczesnego UKS Posejdon – Athletic Pułtusk: szermierka, pływanie, tor przeszkód i laser-run. Informacje o treningach i zapisach."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Pięciobój nowoczesny",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Strona główna"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Pięciobój nowoczesny"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Nowa sekcja klubu"
+        },
+        {
+          "id": "s1t4",
+          "opis": "Tytuł strony",
+          "tekst": "Pięciobój"
+        },
+        {
+          "id": "s1t5",
+          "opis": "Tekst",
+          "tekst": "nowoczesny"
+        },
+        {
+          "id": "s1t6",
+          "opis": "Akapit",
+          "tekst": "Pięć konkurencji, jeden zawodnik. Szybkość, wytrzymałość, precyzja i opanowanie w jednym sporcie olimpijskim."
+        },
+        {
+          "id": "s1t7",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapytaj o zapisy"
+        },
+        {
+          "id": "s1t8",
+          "opis": "Tekst przycisku",
+          "tekst": "Poznaj dyscyplinę"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. Wszechstronny sport dla ambitnych",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "O sekcji"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Nagłówek",
+          "tekst": "Wszechstronny sport dla ambitnych"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Akapit",
+          "tekst": "Pięciobój nowoczesny łączy pływanie, szermierkę, pokonywanie przeszkód, bieg i strzelanie. To dyscyplina, która rozwija całe ciało i uczy panowania nad emocjami – idealna dla zawodników, którzy już dobrze pływają i chcą spróbować czegoś więcej."
+        },
+        {
+          "id": "s2t4",
+          "opis": "Akapit",
+          "tekst": ""
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Konkurencje pięcioboju",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Na czym to polega"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Nagłówek",
+          "tekst": "Konkurencje pięcioboju"
+        },
+        {
+          "id": "s3t3",
+          "opis": "Wyróżniony tekst",
+          "tekst": "01"
+        },
+        {
+          "id": "s3t4",
+          "opis": "Podtytuł",
+          "tekst": "Szermierka"
+        },
+        {
+          "id": "s3t5",
+          "opis": "Akapit",
+          "tekst": "Pojedynki na szpady – refleks, technika i taktyka."
+        },
+        {
+          "id": "s3t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "02"
+        },
+        {
+          "id": "s3t7",
+          "opis": "Podtytuł",
+          "tekst": "Pływanie"
+        },
+        {
+          "id": "s3t8",
+          "opis": "Akapit",
+          "tekst": "200 m stylem dowolnym – nasza mocna strona."
+        },
+        {
+          "id": "s3t9",
+          "opis": "Wyróżniony tekst",
+          "tekst": "03"
+        },
+        {
+          "id": "s3t10",
+          "opis": "Podtytuł",
+          "tekst": "Tor przeszkód"
+        },
+        {
+          "id": "s3t11",
+          "opis": "Akapit",
+          "tekst": "Zręczność, siła i odwaga na torze z przeszkodami."
+        },
+        {
+          "id": "s3t12",
+          "opis": "Wyróżniony tekst",
+          "tekst": "04"
+        },
+        {
+          "id": "s3t13",
+          "opis": "Podtytuł",
+          "tekst": "Laser-run"
+        },
+        {
+          "id": "s3t14",
+          "opis": "Akapit",
+          "tekst": "Bieg połączony ze strzelaniem z pistoletu laserowego."
+        },
+        {
+          "id": "s3t15",
+          "opis": "Akapit",
+          "tekst": "Program zawodów zależy od kategorii wiekowej – młodsi zawodnicy zaczynają od dwuboju i trójboju (np. pływanie i bieg)."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Zajęcia w sekcji",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Treningi"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Nagłówek",
+          "tekst": "Zajęcia w sekcji"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Podtytuł",
+          "tekst": "Pięciobój nowoczesny"
+        },
+        {
+          "id": "s4t4",
+          "opis": "Akapit",
+          "tekst": "Szczegóły zajęć uzupełnimy po uruchomieniu sekcji."
+        },
+        {
+          "id": "s4t5",
+          "opis": "Tekst",
+          "tekst": "Nabór wkrótce"
+        },
+        {
+          "id": "s4t6",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dla kogo"
+        },
+        {
+          "id": "s4t7",
+          "opis": "Wartość: Dla kogo",
+          "tekst": ""
+        },
+        {
+          "id": "s4t8",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dni i godziny"
+        },
+        {
+          "id": "s4t9",
+          "opis": "Wartość: Dni i godziny",
+          "tekst": ""
+        },
+        {
+          "id": "s4t10",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Miejsce"
+        },
+        {
+          "id": "s4t11",
+          "opis": "Wartość: Miejsce",
+          "tekst": ""
+        },
+        {
+          "id": "s4t12",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Trener"
+        },
+        {
+          "id": "s4t13",
+          "opis": "Wartość: Trener",
+          "tekst": ""
+        },
+        {
+          "id": "s4t14",
+          "opis": "Akapit",
+          "tekst": "Masz pytania o sekcję? Zadzwoń lub napisz – odpowiemy."
+        },
+        {
+          "id": "s4t15",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapytaj o zapisy"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s5",
+      "nazwa": "5. Jak dołączyć?",
+      "teksty": [
+        {
+          "id": "s5t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Pierwsze kroki"
+        },
+        {
+          "id": "s5t2",
+          "opis": "Nagłówek",
+          "tekst": "Jak dołączyć?"
+        },
+        {
+          "id": "s5t3",
+          "opis": "Wyróżniony tekst",
+          "tekst": "01"
+        },
+        {
+          "id": "s5t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Skontaktuj się"
+        },
+        {
+          "id": "s5t5",
+          "opis": "Akapit",
+          "tekst": "Zadzwoń lub wypełnij formularz. Powiedz nam o wieku i doświadczeniu."
+        },
+        {
+          "id": "s5t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "02"
+        },
+        {
+          "id": "s5t7",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Poznaj trenera"
+        },
+        {
+          "id": "s5t8",
+          "opis": "Akapit",
+          "tekst": "Umówimy pierwsze zajęcia i dobierzemy poziom treningu."
+        },
+        {
+          "id": "s5t9",
+          "opis": "Wyróżniony tekst",
+          "tekst": "03"
+        },
+        {
+          "id": "s5t10",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Wypełnij dokumenty"
+        },
+        {
+          "id": "s5t11",
+          "opis": "Akapit",
+          "tekst": "Deklaracja członkowska i oświadczenie RODO – do pobrania na stronie."
+        },
+        {
+          "id": "s5t12",
+          "opis": "Wyróżniony tekst",
+          "tekst": "04"
+        },
+        {
+          "id": "s5t13",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Zacznij trenować"
+        },
+        {
+          "id": "s5t14",
+          "opis": "Akapit",
+          "tekst": "Dołącz do drużyny UKS Posejdon – Athletic Pułtusk."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s6",
+      "nazwa": "6. Chcesz trenować pięciobój?",
+      "teksty": [
+        {
+          "id": "s6t1",
+          "opis": "Nagłówek",
+          "tekst": "Chcesz trenować pięciobój?"
+        },
+        {
+          "id": "s6t2",
+          "opis": "Akapit",
+          "tekst": "Zadzwoń albo napisz – przekażemy szczegóły o naborze."
+        },
+        {
+          "id": "s6t3",
+          "opis": "Tekst przycisku",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s6t4",
+          "opis": "Tekst przycisku",
+          "tekst": "Formularz kontaktowy"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

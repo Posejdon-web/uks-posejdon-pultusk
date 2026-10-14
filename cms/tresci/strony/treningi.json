@@ -1,0 +1,833 @@
+{
+  "seo": {
+    "tytul": "Treningi – UKS Posejdon – Athletic Pułtusk",
+    "opis": "Grupy treningowe UKS Posejdon – Athletic Pułtusk: nauka pływania, doskonalenie, grupa sportowa i Masters. Grafik zajęć i zapisy."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Treningi",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Strona główna"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Treningi"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tytuł strony",
+          "tekst": "Treningi"
+        },
+        {
+          "id": "s1t4",
+          "opis": "Akapit",
+          "tekst": "Od pierwszych ruchów w wodzie po starty w zawodach. Wybierz grupę dla dziecka albo dla siebie."
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s1z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/treningi/plywalnia-miejska-pultusk-basen-sportowy-uks-posejdon.jpg",
+          "alt": "Basen sportowy pływalni miejskiej w Pułtusku podczas zawodów pływackich"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. Grupy treningowe",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Nagłówek",
+          "tekst": "Grupy treningowe"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Tekst przycisku",
+          "tekst": "Wszystkie"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Tekst przycisku",
+          "tekst": "Basen sportowy"
+        },
+        {
+          "id": "s2t4",
+          "opis": "Tekst przycisku",
+          "tekst": "Basen rekreacyjny"
+        },
+        {
+          "id": "s2t5",
+          "opis": "Tekst przycisku",
+          "tekst": "Najmłodsi (6–7 lat)"
+        },
+        {
+          "id": "s2t6",
+          "opis": "Tekst",
+          "tekst": "A"
+        },
+        {
+          "id": "s2t7",
+          "opis": "Podtytuł",
+          "tekst": "Grupa A"
+        },
+        {
+          "id": "s2t8",
+          "opis": "Akapit",
+          "tekst": "Najliczniejsze treningi w tygodniu: trzy zajęcia po 75 minut."
+        },
+        {
+          "id": "s2t9",
+          "opis": "Tekst",
+          "tekst": "Tory 2, 3, 4 · basen sportowy"
+        },
+        {
+          "id": "s2t10",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dni"
+        },
+        {
+          "id": "s2t11",
+          "opis": "Wartość: Dni",
+          "tekst": "Pon, Śr, Pt"
+        },
+        {
+          "id": "s2t12",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny"
+        },
+        {
+          "id": "s2t13",
+          "opis": "Wartość: Godziny",
+          "tekst": "17:30–18:45"
+        },
+        {
+          "id": "s2t14",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Trenerzy"
+        },
+        {
+          "id": "s2t15",
+          "opis": "Wartość: Trenerzy",
+          "tekst": "Mariusz Mroziewicz"
+        },
+        {
+          "id": "s2t16",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Wiek"
+        },
+        {
+          "id": "s2t17",
+          "opis": "Wartość: Wiek",
+          "tekst": ""
+        },
+        {
+          "id": "s2t18",
+          "opis": "Akapit",
+          "tekst": "Kryta pływalnia, ul. Burmistrza St. Śniegockiego 3"
+        },
+        {
+          "id": "s2t19",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapisz się"
+        },
+        {
+          "id": "s2t20",
+          "opis": "Tekst",
+          "tekst": "B"
+        },
+        {
+          "id": "s2t21",
+          "opis": "Podtytuł",
+          "tekst": "Grupa B"
+        },
+        {
+          "id": "s2t22",
+          "opis": "Akapit",
+          "tekst": "Trzy treningi w tygodniu po 60 minut."
+        },
+        {
+          "id": "s2t23",
+          "opis": "Tekst",
+          "tekst": "Tory 2, 3 · basen sportowy"
+        },
+        {
+          "id": "s2t24",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dni"
+        },
+        {
+          "id": "s2t25",
+          "opis": "Wartość: Dni",
+          "tekst": "Pon, Śr, Pt"
+        },
+        {
+          "id": "s2t26",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny"
+        },
+        {
+          "id": "s2t27",
+          "opis": "Wartość: Godziny",
+          "tekst": "19:00–20:00"
+        },
+        {
+          "id": "s2t28",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Trenerzy"
+        },
+        {
+          "id": "s2t29",
+          "opis": "Wartość: Trenerzy",
+          "tekst": "Mariusz Mroziewicz"
+        },
+        {
+          "id": "s2t30",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Wiek"
+        },
+        {
+          "id": "s2t31",
+          "opis": "Wartość: Wiek",
+          "tekst": ""
+        },
+        {
+          "id": "s2t32",
+          "opis": "Akapit",
+          "tekst": "Kryta pływalnia, ul. Burmistrza St. Śniegockiego 3"
+        },
+        {
+          "id": "s2t33",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapisz się"
+        },
+        {
+          "id": "s2t34",
+          "opis": "Tekst",
+          "tekst": "C"
+        },
+        {
+          "id": "s2t35",
+          "opis": "Podtytuł",
+          "tekst": "Grupa C"
+        },
+        {
+          "id": "s2t36",
+          "opis": "Akapit",
+          "tekst": "Dwa treningi w tygodniu po 60 minut."
+        },
+        {
+          "id": "s2t37",
+          "opis": "Tekst",
+          "tekst": "Tory 2, 3 · basen sportowy"
+        },
+        {
+          "id": "s2t38",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dni"
+        },
+        {
+          "id": "s2t39",
+          "opis": "Wartość: Dni",
+          "tekst": "Pon, Śr"
+        },
+        {
+          "id": "s2t40",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny"
+        },
+        {
+          "id": "s2t41",
+          "opis": "Wartość: Godziny",
+          "tekst": "17:00–18:00"
+        },
+        {
+          "id": "s2t42",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Trenerzy"
+        },
+        {
+          "id": "s2t43",
+          "opis": "Wartość: Trenerzy",
+          "tekst": "Mariusz Mroziewicz, Franciszek Łyszkowski"
+        },
+        {
+          "id": "s2t44",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Wiek"
+        },
+        {
+          "id": "s2t45",
+          "opis": "Wartość: Wiek",
+          "tekst": ""
+        },
+        {
+          "id": "s2t46",
+          "opis": "Akapit",
+          "tekst": "Kryta pływalnia, ul. Burmistrza St. Śniegockiego 3"
+        },
+        {
+          "id": "s2t47",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapisz się"
+        },
+        {
+          "id": "s2t48",
+          "opis": "Tekst",
+          "tekst": "D"
+        },
+        {
+          "id": "s2t49",
+          "opis": "Podtytuł",
+          "tekst": "Grupa D"
+        },
+        {
+          "id": "s2t50",
+          "opis": "Akapit",
+          "tekst": "Zajęcia raz w tygodniu na basenie rekreacyjnym."
+        },
+        {
+          "id": "s2t51",
+          "opis": "Tekst",
+          "tekst": "Tor 1 · basen rekreacyjny"
+        },
+        {
+          "id": "s2t52",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dni"
+        },
+        {
+          "id": "s2t53",
+          "opis": "Wartość: Dni",
+          "tekst": "Pon"
+        },
+        {
+          "id": "s2t54",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny"
+        },
+        {
+          "id": "s2t55",
+          "opis": "Wartość: Godziny",
+          "tekst": "18:00–19:00"
+        },
+        {
+          "id": "s2t56",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Trenerzy"
+        },
+        {
+          "id": "s2t57",
+          "opis": "Wartość: Trenerzy",
+          "tekst": "Alicja Jagiełło, Mariusz Osica"
+        },
+        {
+          "id": "s2t58",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Wiek"
+        },
+        {
+          "id": "s2t59",
+          "opis": "Wartość: Wiek",
+          "tekst": ""
+        },
+        {
+          "id": "s2t60",
+          "opis": "Akapit",
+          "tekst": "Kryta pływalnia, ul. Burmistrza St. Śniegockiego 3"
+        },
+        {
+          "id": "s2t61",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapisz się"
+        },
+        {
+          "id": "s2t62",
+          "opis": "Tekst",
+          "tekst": "E"
+        },
+        {
+          "id": "s2t63",
+          "opis": "Podtytuł",
+          "tekst": "Grupa E"
+        },
+        {
+          "id": "s2t64",
+          "opis": "Akapit",
+          "tekst": "Grupa dla najmłodszych: dzieci w wieku 6–7 lat."
+        },
+        {
+          "id": "s2t65",
+          "opis": "Tekst",
+          "tekst": "Tor 1 · basen rekreacyjny"
+        },
+        {
+          "id": "s2t66",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Dni"
+        },
+        {
+          "id": "s2t67",
+          "opis": "Wartość: Dni",
+          "tekst": "Pon"
+        },
+        {
+          "id": "s2t68",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny"
+        },
+        {
+          "id": "s2t69",
+          "opis": "Wartość: Godziny",
+          "tekst": "od 19:00"
+        },
+        {
+          "id": "s2t70",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Trenerzy"
+        },
+        {
+          "id": "s2t71",
+          "opis": "Wartość: Trenerzy",
+          "tekst": "Alicja Jagiełło, Mariusz Osica"
+        },
+        {
+          "id": "s2t72",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Wiek"
+        },
+        {
+          "id": "s2t73",
+          "opis": "Wartość: Wiek",
+          "tekst": "6–7 lat"
+        },
+        {
+          "id": "s2t74",
+          "opis": "Akapit",
+          "tekst": "Kryta pływalnia, ul. Burmistrza St. Śniegockiego 3"
+        },
+        {
+          "id": "s2t75",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapisz się"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s2z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/treningi/wyscig-kraulem-zawody-plywackie-pultusk-uks-posejdon.jpg",
+          "alt": "Wyścig stylem dowolnym na zawodach pływackich na pływalni miejskiej w Pułtusku"
+        },
+        {
+          "id": "s2z2",
+          "opis": "Zdjęcie 2",
+          "plik": "assets/img/treningi/trening-plywacki-zawodnicy-uks-posejdon-pultusk-basen-sportowy.jpg",
+          "alt": "Zawodnicy UKS Posejdon – Athletic Pułtusk przy ścianie basenu sportowego przed startem"
+        },
+        {
+          "id": "s2z3",
+          "opis": "Zdjęcie 3",
+          "plik": "assets/img/foto/foto-09.jpg",
+          "alt": ""
+        },
+        {
+          "id": "s2z4",
+          "opis": "Zdjęcie 4",
+          "plik": "assets/img/foto/foto-05.jpg",
+          "alt": ""
+        },
+        {
+          "id": "s2z5",
+          "opis": "Zdjęcie 5",
+          "plik": "assets/img/treningi/zajecia-nauki-plywania-dla-dzieci-6-7-lat-uks-posejdon-pultusk.jpg",
+          "alt": "Zajęcia nauki pływania dla dzieci 6–7 lat z trenerką UKS Posejdon na pływalni w Pułtusku"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Jak zacząć treningi?",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Pierwsze kroki"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Nagłówek",
+          "tekst": "Jak zacząć treningi?"
+        },
+        {
+          "id": "s3t3",
+          "opis": "Wyróżniony tekst",
+          "tekst": "01"
+        },
+        {
+          "id": "s3t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Skontaktuj się"
+        },
+        {
+          "id": "s3t5",
+          "opis": "Akapit",
+          "tekst": "Zadzwoń lub wypełnij formularz. Powiedz nam o wieku i umiejętnościach."
+        },
+        {
+          "id": "s3t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "02"
+        },
+        {
+          "id": "s3t7",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Dobierzemy grupę"
+        },
+        {
+          "id": "s3t8",
+          "opis": "Akapit",
+          "tekst": "Trener zaproponuje grupę i termin pierwszych zajęć."
+        },
+        {
+          "id": "s3t9",
+          "opis": "Wyróżniony tekst",
+          "tekst": "03"
+        },
+        {
+          "id": "s3t10",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Wypełnij dokumenty"
+        },
+        {
+          "id": "s3t11",
+          "opis": "Akapit",
+          "tekst": "Deklaracja członkowska i oświadczenie RODO – do pobrania na stronie."
+        },
+        {
+          "id": "s3t12",
+          "opis": "Wyróżniony tekst",
+          "tekst": "04"
+        },
+        {
+          "id": "s3t13",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Do wody!"
+        },
+        {
+          "id": "s3t14",
+          "opis": "Akapit",
+          "tekst": "Wpisowe płatne jednorazowo, potem miesięczna składka członka wspierającego."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Grafik zajęć 2026/2027",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Harmonogram"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Nagłówek",
+          "tekst": "Grafik zajęć 2026/2027"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Opis tabeli (dla czytników ekranu)",
+          "tekst": "Grafik zajęć według grup i dni tygodnia"
+        },
+        {
+          "id": "s4t4",
+          "opis": "Komórka tabeli",
+          "tekst": "Grupa"
+        },
+        {
+          "id": "s4t5",
+          "opis": "Komórka tabeli",
+          "tekst": "Pon"
+        },
+        {
+          "id": "s4t6",
+          "opis": "Komórka tabeli",
+          "tekst": "Wt"
+        },
+        {
+          "id": "s4t7",
+          "opis": "Komórka tabeli",
+          "tekst": "Śr"
+        },
+        {
+          "id": "s4t8",
+          "opis": "Komórka tabeli",
+          "tekst": "Czw"
+        },
+        {
+          "id": "s4t9",
+          "opis": "Komórka tabeli",
+          "tekst": "Pt"
+        },
+        {
+          "id": "s4t10",
+          "opis": "Komórka tabeli",
+          "tekst": "Sob"
+        },
+        {
+          "id": "s4t11",
+          "opis": "Komórka tabeli",
+          "tekst": "Grupa A"
+        },
+        {
+          "id": "s4t12",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Mariusz Mroziewicz · Tory 2, 3, 4 · basen sportowy"
+        },
+        {
+          "id": "s4t13",
+          "opis": "Komórka tabeli",
+          "tekst": "17:30–18:45"
+        },
+        {
+          "id": "s4t14",
+          "opis": "Komórka tabeli",
+          "tekst": "17:30–18:45"
+        },
+        {
+          "id": "s4t15",
+          "opis": "Komórka tabeli",
+          "tekst": "17:30–18:45"
+        },
+        {
+          "id": "s4t16",
+          "opis": "Komórka tabeli",
+          "tekst": "Grupa B"
+        },
+        {
+          "id": "s4t17",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Mariusz Mroziewicz · Tory 2, 3 · basen sportowy"
+        },
+        {
+          "id": "s4t18",
+          "opis": "Komórka tabeli",
+          "tekst": "19:00–20:00"
+        },
+        {
+          "id": "s4t19",
+          "opis": "Komórka tabeli",
+          "tekst": "19:00–20:00"
+        },
+        {
+          "id": "s4t20",
+          "opis": "Komórka tabeli",
+          "tekst": "19:00–20:00"
+        },
+        {
+          "id": "s4t21",
+          "opis": "Komórka tabeli",
+          "tekst": "Grupa C"
+        },
+        {
+          "id": "s4t22",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Mariusz Mroziewicz, Franciszek Łyszkowski · Tory 2, 3 · basen sportowy"
+        },
+        {
+          "id": "s4t23",
+          "opis": "Komórka tabeli",
+          "tekst": "17:00–18:00"
+        },
+        {
+          "id": "s4t24",
+          "opis": "Komórka tabeli",
+          "tekst": "17:00–18:00"
+        },
+        {
+          "id": "s4t25",
+          "opis": "Komórka tabeli",
+          "tekst": "Grupa D"
+        },
+        {
+          "id": "s4t26",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Alicja Jagiełło, Mariusz Osica · Tor 1 · basen rekreacyjny"
+        },
+        {
+          "id": "s4t27",
+          "opis": "Komórka tabeli",
+          "tekst": "18:00–19:00"
+        },
+        {
+          "id": "s4t28",
+          "opis": "Komórka tabeli",
+          "tekst": "Grupa E"
+        },
+        {
+          "id": "s4t29",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Alicja Jagiełło, Mariusz Osica · Tor 1 · basen rekreacyjny"
+        },
+        {
+          "id": "s4t30",
+          "opis": "Komórka tabeli",
+          "tekst": "od 19:00"
+        },
+        {
+          "id": "s4t31",
+          "opis": "Akapit",
+          "tekst": "Zajęcia odbywają się na krytej pływalni w Pułtusku. Tory 2–4 – basen sportowy, tor 1 – basen rekreacyjny."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s5",
+      "nazwa": "5. Kryta pływalnia w Pułtusku",
+      "teksty": [
+        {
+          "id": "s5t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Miejsce treningów"
+        },
+        {
+          "id": "s5t2",
+          "opis": "Nagłówek",
+          "tekst": "Kryta pływalnia w Pułtusku"
+        },
+        {
+          "id": "s5t3",
+          "opis": "Tekst",
+          "tekst": "Kryta pływalnia · ul. Śniegockiego 3"
+        },
+        {
+          "id": "s5t4",
+          "opis": "Tekst",
+          "tekst": "Siedziba · SP nr 4"
+        },
+        {
+          "id": "s5t5",
+          "opis": "Tekst linku",
+          "tekst": "Otwórz w Mapach Google"
+        },
+        {
+          "id": "s5t6",
+          "opis": "Akapit",
+          "tekst": "ul. Burmistrza Stanisława Śniegockiego 3, 06-100 Pułtusk"
+        },
+        {
+          "id": "s5t7",
+          "opis": "Akapit",
+          "tekst": "Wspólnie z MOSiR Pułtusk organizujemy tu również zawody."
+        },
+        {
+          "id": "s5t8",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Pytania rodziców"
+        },
+        {
+          "id": "s5t9",
+          "opis": "Nagłówek",
+          "tekst": "Najczęstsze pytania"
+        },
+        {
+          "id": "s5t10",
+          "opis": "Pytanie",
+          "tekst": "Czy dziecko musi umieć pływać?"
+        },
+        {
+          "id": "s5t11",
+          "opis": "Odpowiedź",
+          "tekst": "Nie. W grupie nauki pływania zaczynamy od oswojenia z wodą. Trener oceni umiejętności na pierwszych zajęciach."
+        },
+        {
+          "id": "s5t12",
+          "opis": "Pytanie",
+          "tekst": "Co zabrać na pierwszy trening?"
+        },
+        {
+          "id": "s5t13",
+          "opis": "Odpowiedź",
+          "tekst": "strój kąpielowy, czepek, okularki, klapki, ręcznik"
+        },
+        {
+          "id": "s5t14",
+          "opis": "Pytanie",
+          "tekst": "Ile kosztują zajęcia?"
+        },
+        {
+          "id": "s5t15",
+          "opis": "Odpowiedź",
+          "tekst": "Wpisowe jest opłatą jednorazową, a co miesiąc obowiązuje składka członka wspierającego. Kwoty: . Dane do przelewu znajdziesz na stronie"
+        },
+        {
+          "id": "s5t16",
+          "opis": "Link w akapicie",
+          "tekst": "Kontakt"
+        },
+        {
+          "id": "s5t17",
+          "opis": "Pytanie",
+          "tekst": "Jakie dokumenty są potrzebne?"
+        },
+        {
+          "id": "s5t18",
+          "opis": "Odpowiedź",
+          "tekst": "Deklaracja członkowska oraz oświadczenie dotyczące przetwarzania danych i wizerunku. Dorośli w grupie Masters wypełniają też oświadczenie o stanie zdrowia."
+        },
+        {
+          "id": "s5t19",
+          "opis": "Link w akapicie",
+          "tekst": "Pobierz dokumenty"
+        },
+        {
+          "id": "s5t20",
+          "opis": "Pytanie",
+          "tekst": "Czy można dołączyć w trakcie sezonu?"
+        },
+        {
+          "id": "s5t21",
+          "opis": "Odpowiedź",
+          "tekst": ""
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s6",
+      "nazwa": "6. Zapisz się na pierwszy trening",
+      "teksty": [
+        {
+          "id": "s6t1",
+          "opis": "Nagłówek",
+          "tekst": "Zapisz się na pierwszy trening"
+        },
+        {
+          "id": "s6t2",
+          "opis": "Akapit",
+          "tekst": "Zadzwoń albo napisz – odpowiemy i dobierzemy grupę."
+        },
+        {
+          "id": "s6t3",
+          "opis": "Tekst przycisku",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s6t4",
+          "opis": "Tekst przycisku",
+          "tekst": "Formularz kontaktowy"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

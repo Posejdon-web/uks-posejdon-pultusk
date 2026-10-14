@@ -1,0 +1,388 @@
+{
+  "seo": {
+    "tytul": "O klubie – UKS Posejdon – Athletic Pułtusk",
+    "opis": "Historia, wartości, trenerzy i dane UKS Posejdon – Athletic Pułtusk – uczniowskiego klubu pływackiego działającego od 2012 roku."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Od 2012 roku w wodzie",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Strona główna"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "O klubie"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tytuł strony",
+          "tekst": "Od 2012 roku"
+        },
+        {
+          "id": "s1t4",
+          "opis": "Tekst",
+          "tekst": "w wodzie"
+        },
+        {
+          "id": "s1t5",
+          "opis": "Akapit",
+          "tekst": "Uczniowski Klub Sportowy „Posejdon – Athletic” z Pułtuska – sekcja pływacka. Uczymy, trenujemy i bawimy się pływaniem."
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s1z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/foto/foto-07.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. Klub, który rośnie razem z zawodnikami",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Kim jesteśmy"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Nagłówek",
+          "tekst": "Klub, który rośnie razem z zawodnikami"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Akapit",
+          "tekst": "Prowadzimy naukę i doskonalenie pływania dzieci, młodzieży i dorosłych. Naszym zadaniem jest przygotowanie młodych pływaków do rywalizacji sportowej – od pierwszej lekcji po finały mistrzostw Polski."
+        },
+        {
+          "id": "s2t4",
+          "opis": "Akapit",
+          "tekst": "Skupiamy młodzież z powiatu pułtuskiego i powiatów sąsiednich, a organizując zawody na pływalni w Pułtusku, promujemy Gminę Pułtusk w regionie."
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s2z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/foto/foto-26.jpg",
+          "alt": "Zawodnicy UKS Posejdon na zawodach Mikołajkowych"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Co nas napędza",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Nasze wartości"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Nagłówek",
+          "tekst": "Co nas napędza"
+        },
+        {
+          "id": "s3t3",
+          "opis": "Podtytuł",
+          "tekst": "Pasja"
+        },
+        {
+          "id": "s3t4",
+          "opis": "Akapit",
+          "tekst": "Pływanie ma sprawiać radość – na treningu i na zawodach."
+        },
+        {
+          "id": "s3t5",
+          "opis": "Podtytuł",
+          "tekst": "Bezpieczeństwo"
+        },
+        {
+          "id": "s3t6",
+          "opis": "Akapit",
+          "tekst": "Pewność w wodzie to podstawa każdego etapu szkolenia."
+        },
+        {
+          "id": "s3t7",
+          "opis": "Podtytuł",
+          "tekst": "Rozwój"
+        },
+        {
+          "id": "s3t8",
+          "opis": "Akapit",
+          "tekst": "Krok po kroku: od nauki pływania do sportowej rywalizacji."
+        },
+        {
+          "id": "s3t9",
+          "opis": "Podtytuł",
+          "tekst": "Drużyna"
+        },
+        {
+          "id": "s3t10",
+          "opis": "Akapit",
+          "tekst": "Zawodnicy, trenerzy i rodzice – razem tworzymy klub."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Nasza droga",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Historia"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Nagłówek",
+          "tekst": "Nasza droga"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Wyróżniony tekst",
+          "tekst": "2012"
+        },
+        {
+          "id": "s4t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Powstaje UKS Posejdon"
+        },
+        {
+          "id": "s4t5",
+          "opis": "Akapit",
+          "tekst": "16 maja. Wpis do ewidencji UKS Starostwa Powiatowego w Pułtusku (nr 29) i licencja klubowa Polskiego Związku Pływackiego."
+        },
+        {
+          "id": "s4t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "2015"
+        },
+        {
+          "id": "s4t7",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Kurs sędziów pływackich"
+        },
+        {
+          "id": "s4t8",
+          "opis": "Akapit",
+          "tekst": "Klub organizuje kurs – egzamin na sędziego pływania zdaje 12 osób."
+        },
+        {
+          "id": "s4t9",
+          "opis": "Wyróżniony tekst",
+          "tekst": "2023"
+        },
+        {
+          "id": "s4t10",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Pierwszy medal MP"
+        },
+        {
+          "id": "s4t11",
+          "opis": "Akapit",
+          "tekst": "Franciszek Łyszkowski zdobywa brąz MP 14-latków na 100 m stylem klasycznym."
+        },
+        {
+          "id": "s4t12",
+          "opis": "Wyróżniony tekst",
+          "tekst": "2025"
+        },
+        {
+          "id": "s4t13",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Program „Klub”"
+        },
+        {
+          "id": "s4t14",
+          "opis": "Akapit",
+          "tekst": "12 000 zł dotacji z Ministerstwa Sportu i Turystyki na sprzęt i zajęcia."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s5",
+      "nazwa": "5. Trenerzy",
+      "teksty": [
+        {
+          "id": "s5t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Ludzie klubu"
+        },
+        {
+          "id": "s5t2",
+          "opis": "Nagłówek",
+          "tekst": "Trenerzy"
+        },
+        {
+          "id": "s5t3",
+          "opis": "Akapit",
+          "tekst": "Prezesem założycielem i trenerem klubu został Mariusz Osica. Od początku pracę trenerską w sekcji pływackiej prowadzili także Sylwia Befinger, Kamil Michałowski, Paweł Dagis i Mariusz Mroziewicz."
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s6",
+      "nazwa": "6. Gdzie nas znaleźć",
+      "teksty": [
+        {
+          "id": "s6t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Gdzie nas znaleźć"
+        },
+        {
+          "id": "s6t2",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Treningi – kryta pływalnia"
+        },
+        {
+          "id": "s6t3",
+          "opis": "Akapit",
+          "tekst": "ul. Burmistrza Stanisława Śniegockiego 3, 06-100 Pułtusk"
+        },
+        {
+          "id": "s6t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "Siedziba klubu"
+        },
+        {
+          "id": "s6t5",
+          "opis": "Akapit",
+          "tekst": "Publiczna Szkoła Podstawowa nr 4 im. Ireny Szewińskiej"
+        },
+        {
+          "id": "s6t6",
+          "opis": "Akapit",
+          "tekst": "ul. New Britain 1, 06-100 Pułtusk"
+        },
+        {
+          "id": "s6t7",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Dane klubu"
+        },
+        {
+          "id": "s6t8",
+          "opis": "Etykieta",
+          "tekst": "Pełna nazwa"
+        },
+        {
+          "id": "s6t9",
+          "opis": "Wartość: Pełna nazwa",
+          "tekst": "Uczniowski Klub Sportowy „Posejdon” Pułtusk"
+        },
+        {
+          "id": "s6t10",
+          "opis": "Etykieta",
+          "tekst": "Data założenia"
+        },
+        {
+          "id": "s6t11",
+          "opis": "Wartość: Data założenia",
+          "tekst": "16 maja 2012"
+        },
+        {
+          "id": "s6t12",
+          "opis": "Etykieta",
+          "tekst": "Ewidencja UKS"
+        },
+        {
+          "id": "s6t13",
+          "opis": "Wartość: Ewidencja UKS",
+          "tekst": "Starostwo Powiatowe w Pułtusku, nr 29"
+        },
+        {
+          "id": "s6t14",
+          "opis": "Etykieta",
+          "tekst": "Licencja PZP"
+        },
+        {
+          "id": "s6t15",
+          "opis": "Wartość: Licencja PZP",
+          "tekst": "017214"
+        },
+        {
+          "id": "s6t16",
+          "opis": "Etykieta",
+          "tekst": "ID klubu w wykazie PZP"
+        },
+        {
+          "id": "s6t17",
+          "opis": "Wartość: ID klubu w wykazie PZP",
+          "tekst": "107214"
+        },
+        {
+          "id": "s6t18",
+          "opis": "Etykieta",
+          "tekst": "Okręg"
+        },
+        {
+          "id": "s6t19",
+          "opis": "Wartość: Okręg",
+          "tekst": "Warszawsko-mazowiecki"
+        },
+        {
+          "id": "s6t20",
+          "opis": "Etykieta",
+          "tekst": "Dokumenty"
+        },
+        {
+          "id": "s6t21",
+          "opis": "Tekst linku",
+          "tekst": "Regulamin i deklaracja"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s7",
+      "nazwa": "7. Wspierają nas",
+      "teksty": [
+        {
+          "id": "s7t1",
+          "opis": "Akapit",
+          "tekst": "Wspierają nas"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s8",
+      "nazwa": "8. Zostań częścią Posejdona",
+      "teksty": [
+        {
+          "id": "s8t1",
+          "opis": "Nagłówek",
+          "tekst": "Zostań częścią Posejdona"
+        },
+        {
+          "id": "s8t2",
+          "opis": "Akapit",
+          "tekst": "Zapisz dziecko na trening albo dołącz do grupy Masters."
+        },
+        {
+          "id": "s8t3",
+          "opis": "Tekst przycisku",
+          "tekst": "Zobacz treningi"
+        },
+        {
+          "id": "s8t4",
+          "opis": "Tekst przycisku",
+          "tekst": "Skontaktuj się"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

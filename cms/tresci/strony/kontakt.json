@@ -1,0 +1,293 @@
+{
+  "seo": {
+    "tytul": "Kontakt – UKS Posejdon – Athletic Pułtusk",
+    "opis": "Kontakt, zapisy, dane do przelewu i dokumenty – UKS Posejdon – Athletic Pułtusk, ul. New Britain 1, 06-100 Pułtusk, tel. 515 156 693."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Kontakt",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Strona główna"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Kontakt"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tytuł strony",
+          "tekst": "Kontakt"
+        },
+        {
+          "id": "s1t4",
+          "opis": "Akapit",
+          "tekst": "Zapisy, pytania o treningi i opłaty. Odpowiadamy telefonicznie i mailowo."
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s1z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/foto/foto-05.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. Napisz do nas",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Telefon"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Wyróżniony tekst",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "E-mail"
+        },
+        {
+          "id": "s2t4",
+          "opis": "Wyróżniony tekst",
+          "tekst": "posejdonpultusk@gmail.com"
+        },
+        {
+          "id": "s2t5",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Siedziba klubu"
+        },
+        {
+          "id": "s2t6",
+          "opis": "Wyróżniony tekst",
+          "tekst": "ul. New Britain 1"
+        },
+        {
+          "id": "s2t7",
+          "opis": "Wyróżniony tekst",
+          "tekst": "06-100 Pułtusk"
+        },
+        {
+          "id": "s2t8",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "Godziny kontaktu"
+        },
+        {
+          "id": "s2t9",
+          "opis": "Wyróżniony tekst",
+          "tekst": "[pn–pt, godz. __–__]"
+        },
+        {
+          "id": "s2t10",
+          "opis": "Tekst",
+          "tekst": "Kryta pływalnia · ul. Śniegockiego 3"
+        },
+        {
+          "id": "s2t11",
+          "opis": "Tekst",
+          "tekst": "Siedziba · SP nr 4"
+        },
+        {
+          "id": "s2t12",
+          "opis": "Tekst linku",
+          "tekst": "Otwórz w Mapach Google"
+        },
+        {
+          "id": "s2t13",
+          "opis": "Akapit",
+          "tekst": "Okręg Warszawsko-Mazowiecki PZP"
+        },
+        {
+          "id": "s2t14",
+          "opis": "Opis pola formularza",
+          "tekst": "Nie wypełniaj:"
+        },
+        {
+          "id": "s2t15",
+          "opis": "Nagłówek",
+          "tekst": "Napisz do nas"
+        },
+        {
+          "id": "s2t16",
+          "opis": "Opis pola formularza",
+          "tekst": "Imię i nazwisko"
+        },
+        {
+          "id": "s2t17",
+          "opis": "Opis pola formularza",
+          "tekst": "Telefon"
+        },
+        {
+          "id": "s2t18",
+          "opis": "Opis pola formularza",
+          "tekst": "E-mail"
+        },
+        {
+          "id": "s2t19",
+          "opis": "Opis pola formularza",
+          "tekst": "Temat"
+        },
+        {
+          "id": "s2t20",
+          "opis": "Opcja do wyboru",
+          "tekst": "Zapis dziecka na zajęcia"
+        },
+        {
+          "id": "s2t21",
+          "opis": "Opcja do wyboru",
+          "tekst": "Grupa Masters"
+        },
+        {
+          "id": "s2t22",
+          "opis": "Opcja do wyboru",
+          "tekst": "Zawody"
+        },
+        {
+          "id": "s2t23",
+          "opis": "Opcja do wyboru",
+          "tekst": "Opłaty"
+        },
+        {
+          "id": "s2t24",
+          "opis": "Opcja do wyboru",
+          "tekst": "Inne"
+        },
+        {
+          "id": "s2t25",
+          "opis": "Opis pola formularza",
+          "tekst": "Wiek i umiejętności dziecka"
+        },
+        {
+          "id": "s2t26",
+          "opis": "Opis pola formularza",
+          "tekst": "Wiadomość"
+        },
+        {
+          "id": "s2t27",
+          "opis": "Opis pola formularza",
+          "tekst": "Wyrażam zgodę na przetwarzanie moich danych w celu odpowiedzi na wiadomość, zgodnie z"
+        },
+        {
+          "id": "s2t28",
+          "opis": "Tekst linku",
+          "tekst": "polityką prywatności"
+        },
+        {
+          "id": "s2t29",
+          "opis": "Tekst przycisku",
+          "tekst": "Wyślij wiadomość"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Dane do przelewu",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Opłaty"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Nagłówek",
+          "tekst": "Dane do przelewu"
+        },
+        {
+          "id": "s3t3",
+          "opis": "Akapit",
+          "tekst": "Wpisowe jest opłatą jednorazową. Co miesiąc obowiązuje składka członka wspierającego. Kwoty: ."
+        },
+        {
+          "id": "s3t4",
+          "opis": "Etykieta",
+          "tekst": "Odbiorca"
+        },
+        {
+          "id": "s3t5",
+          "opis": "Wartość: Odbiorca",
+          "tekst": "UKS „Posejdon” Pułtusk"
+        },
+        {
+          "id": "s3t6",
+          "opis": "Etykieta",
+          "tekst": "Bank"
+        },
+        {
+          "id": "s3t7",
+          "opis": "Wartość: Bank",
+          "tekst": "BNP Paribas"
+        },
+        {
+          "id": "s3t8",
+          "opis": "Etykieta",
+          "tekst": "Numer konta"
+        },
+        {
+          "id": "s3t9",
+          "opis": "Wartość: Numer konta",
+          "tekst": "75 2030 0045 1110 0000 0234 6640"
+        },
+        {
+          "id": "s3t10",
+          "opis": "Etykieta",
+          "tekst": "Tytuł przelewu"
+        },
+        {
+          "id": "s3t11",
+          "opis": "Wartość: Tytuł przelewu",
+          "tekst": "rodzaj opłaty, imię i nazwisko dziecka, miesiąc"
+        },
+        {
+          "id": "s3t12",
+          "opis": "Akapit",
+          "tekst": "Przykłady:"
+        },
+        {
+          "id": "s3t13",
+          "opis": "Fragment akapitu (wyróżniony)",
+          "tekst": "Składka członka wspierającego, Agata Nowak, wrzesień"
+        },
+        {
+          "id": "s3t14",
+          "opis": "Fragment akapitu (wyróżniony)",
+          "tekst": "Wpisowe, Agata Nowak"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Do pobrania",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Nadtytuł (mały napis nad nagłówkiem)",
+          "tekst": "Dokumenty"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Nagłówek",
+          "tekst": "Do pobrania"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Akapit",
+          "tekst": "Wypełnione dokumenty przekaż trenerowi na pierwszych zajęciach."
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "seo": {
+    "tytul": "Polityka prywatności – UKS Posejdon – Athletic Pułtusk",
+    "opis": "Polityka prywatności i plików cookies strony UKS Posejdon – Athletic Pułtusk."
+  },
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Polityka prywatności",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Strona główna"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Ścieżka nawigacji",
+          "tekst": "Polityka prywatności"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tytuł strony",
+          "tekst": "Polityka prywatności"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. 1. Administrator danych",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Akapit",
+          "tekst": "Szablon do weryfikacji przez klub przed publikacją."
+        },
+        {
+          "id": "s2t2",
+          "opis": "Nagłówek",
+          "tekst": "1. Administrator danych"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Akapit",
+          "tekst": "Administratorem danych osobowych jest Uczniowski Klub Sportowy „Posejdon” Pułtusk, ul. New Britain 1, 06-100 Pułtusk, e-mail: posejdonpultusk@gmail.com, tel. 515 156 693."
+        },
+        {
+          "id": "s2t4",
+          "opis": "Nagłówek",
+          "tekst": "2. Jakie dane i w jakim celu"
+        },
+        {
+          "id": "s2t5",
+          "opis": "Akapit",
+          "tekst": "Dane podane w formularzu kontaktowym (imię i nazwisko, e-mail, telefon, treść wiadomości) przetwarzamy wyłącznie w celu odpowiedzi na wiadomość i organizacji zajęć – na podstawie Twojej zgody (art. 6 ust. 1 lit. a RODO) oraz prawnie uzasadnionego interesu klubu (art. 6 ust. 1 lit. f RODO)."
+        },
+        {
+          "id": "s2t6",
+          "opis": "Akapit",
+          "tekst": "Dane członków klubu (deklaracje, oświadczenia) przetwarzamy w celu realizacji członkostwa i udziału w zajęciach oraz zawodach."
+        },
+        {
+          "id": "s2t7",
+          "opis": "Nagłówek",
+          "tekst": "3. Odbiorcy danych"
+        },
+        {
+          "id": "s2t8",
+          "opis": "Akapit",
+          "tekst": "Dane mogą być powierzone dostawcy hostingu strony i obsługi formularza wyłącznie w zakresie niezbędnym do działania strony."
+        },
+        {
+          "id": "s2t9",
+          "opis": "Nagłówek",
+          "tekst": "4. Okres przechowywania"
+        },
+        {
+          "id": "s2t10",
+          "opis": "Akapit",
+          "tekst": "Dane z formularza przechowujemy do czasu udzielenia odpowiedzi, nie dłużej niż 12 miesięcy. Dane członków – przez okres członkostwa i wymagany przepisami okres archiwizacji."
+        },
+        {
+          "id": "s2t11",
+          "opis": "Nagłówek",
+          "tekst": "5. Twoje prawa"
+        },
+        {
+          "id": "s2t12",
+          "opis": "Akapit",
+          "tekst": "Masz prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, przenoszenia, wniesienia sprzeciwu oraz cofnięcia zgody w dowolnym momencie. Przysługuje Ci skarga do Prezesa Urzędu Ochrony Danych Osobowych."
+        },
+        {
+          "id": "s2t13",
+          "opis": "Nagłówek",
+          "tekst": "6. Pliki cookies"
+        },
+        {
+          "id": "s2t14",
+          "opis": "Akapit",
+          "tekst": "Strona zapisuje w przeglądarce wyłącznie informację o Twoim wyborze dotyczącym cookies. Treści zewnętrzne (mapa, Facebook) oraz statystyki uruchamiamy tylko po wyrażeniu zgody. Zgodę możesz zmienić w każdej chwili:"
+        },
+        {
+          "id": "s2t15",
+          "opis": "Link w akapicie",
+          "tekst": "ustawienia cookies"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}

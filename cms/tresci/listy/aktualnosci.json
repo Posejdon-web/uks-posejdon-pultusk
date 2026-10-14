@@ -1,0 +1,81 @@
+{
+  "elementy": [
+    {
+      "kategoria": "zawody",
+      "data": "23.06.2026",
+      "tytul": "Finał „Od Młodzika do Olimpijczyka”",
+      "tresc": "Klasyfikacja końcowa OMDO 2025/2026: Adam Mroziewicz (rocznik 2013) – 5. miejsce, Róża Zimnicka (rocznik 2016) – 6. miejsce. W finale Adam zdobył srebro na 100 m stylem motylkowym (1:05,05), a Róża i Roman Łyszkowski zajęli 4. miejsca.",
+      "zdjecie": "assets/img/zawody/adam-mroziewicz-srebro-100-m-motylkowym-omdo-2026.jpg",
+      "alt": "Adam Mroziewicz ze srebrnym medalem za 100 m stylem motylkowym, finał OMDO 2026",
+      "plansza": "",
+      "plansza_kolor": "granat",
+      "link": "#omdo-wyniki"
+    },
+    {
+      "kategoria": "ogloszenia",
+      "data": "Sezon 2026/2027",
+      "tytul": "Grafik zajęć na sezon 2026/2027",
+      "tresc": "Pięć grup treningowych (A–E), zajęcia w poniedziałki, środy i piątki.",
+      "zdjecie": "",
+      "alt": "",
+      "plansza": "Grafik\n2026/2027",
+      "plansza_kolor": "granat",
+      "link": "/treningi#grafik"
+    },
+    {
+      "kategoria": "zawody",
+      "data": "26.07.2023",
+      "tytul": "Brąz Mistrzostw Polski 14-latków dla Franka Łyszkowskiego",
+      "tresc": "7. czas eliminacji (1:12,02), a w finale A brązowy medal z czasem 1:10,59 na 100 m stylem klasycznym.",
+      "zdjecie": "assets/img/foto/foto-04.jpg",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "plansza": "",
+      "plansza_kolor": "granat",
+      "link": "/aktualnosci"
+    },
+    {
+      "kategoria": "dotacje",
+      "data": "27.12.2025",
+      "tytul": "12 000 zł z programu „Klub” 2025",
+      "tresc": "Dofinansowanie z Ministerstwa Sportu i Turystyki na sprzęt treningowy i zajęcia.",
+      "zdjecie": "assets/img/foto/foto-26.jpg",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "plansza": "",
+      "plansza_kolor": "granat",
+      "link": "/aktualnosci"
+    },
+    {
+      "kategoria": "wydarzenia",
+      "data": "[data]",
+      "tytul": "Zawody Mikołajkowe na pływalni w Pułtusku",
+      "tresc": "Coroczne zawody organizowane wspólnie z MOSiR Pułtusk. [relacja i wyniki]",
+      "zdjecie": "",
+      "alt": "",
+      "plansza": "Zawody\nMikołajkowe",
+      "plansza_kolor": "sky",
+      "link": "/aktualnosci"
+    },
+    {
+      "kategoria": "zawody",
+      "data": "[data]",
+      "tytul": "[Wyniki zawodów okręgowych]",
+      "tresc": "[Krótkie podsumowanie startu zawodników klubu]",
+      "zdjecie": "assets/img/foto/foto-11.jpg",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "plansza": "",
+      "plansza_kolor": "granat",
+      "link": "/aktualnosci"
+    },
+    {
+      "kategoria": "wydarzenia",
+      "data": "2015",
+      "tytul": "Kurs sędziów pływackich w Pułtusku",
+      "tresc": "Klub zorganizował kurs sędziowski – egzamin na sędziego pływania zdało 12 osób.",
+      "zdjecie": "",
+      "alt": "",
+      "plansza": "12 nowych\nsędziów",
+      "plansza_kolor": "blue",
+      "link": "/aktualnosci"
+    }
+  ]
+}

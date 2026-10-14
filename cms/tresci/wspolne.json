@@ -1,0 +1,191 @@
+{
+  "sekcje": [
+    {
+      "id": "s1",
+      "nazwa": "1. Nagłówek strony (logo i przycisk)",
+      "teksty": [
+        {
+          "id": "s1t1",
+          "opis": "Wyróżniony tekst",
+          "tekst": "UKS POSEJDON"
+        },
+        {
+          "id": "s1t2",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "ATHLETIC PUŁTUSK"
+        },
+        {
+          "id": "s1t3",
+          "opis": "Tekst przycisku",
+          "tekst": "Dołącz do nas"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s1z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/logo-emblem.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "nazwa": "2. Stopka",
+      "teksty": [
+        {
+          "id": "s2t1",
+          "opis": "Wyróżniony tekst",
+          "tekst": "UKS POSEJDON"
+        },
+        {
+          "id": "s2t2",
+          "opis": "Mały tekst / etykieta",
+          "tekst": "ATHLETIC PUŁTUSK"
+        },
+        {
+          "id": "s2t3",
+          "opis": "Akapit",
+          "tekst": "Uczniowski Klub Sportowy – sekcja pływacka. Uczymy, trenujemy i bawimy się pływaniem od 2012 roku."
+        },
+        {
+          "id": "s2t4",
+          "opis": "Podtytuł",
+          "tekst": "Kontakt"
+        },
+        {
+          "id": "s2t5",
+          "opis": "Punkt listy",
+          "tekst": "ul. New Britain 1, 06-100 Pułtusk"
+        },
+        {
+          "id": "s2t6",
+          "opis": "Tekst linku",
+          "tekst": "515 156 693"
+        },
+        {
+          "id": "s2t7",
+          "opis": "Tekst linku",
+          "tekst": "posejdonpultusk@gmail.com"
+        },
+        {
+          "id": "s2t8",
+          "opis": "Akapit",
+          "tekst": "© 2012–"
+        },
+        {
+          "id": "s2t9",
+          "opis": "Fragment akapitu (wyróżniony)",
+          "tekst": "2026"
+        },
+        {
+          "id": "s2t10",
+          "opis": "Akapit",
+          "tekst": "UKS Posejdon – Athletic Pułtusk. Wszelkie prawa zastrzeżone."
+        },
+        {
+          "id": "s2t11",
+          "opis": "Link w akapicie",
+          "tekst": "Polityka prywatności"
+        },
+        {
+          "id": "s2t12",
+          "opis": "Link w akapicie",
+          "tekst": "Ustawienia cookies"
+        }
+      ],
+      "zdjecia": [
+        {
+          "id": "s2z1",
+          "opis": "Zdjęcie 1",
+          "plik": "assets/img/logo-emblem.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "nazwa": "3. Pasek szybkich akcji (telefon)",
+      "teksty": [
+        {
+          "id": "s3t1",
+          "opis": "Tekst linku",
+          "tekst": "Zadzwoń"
+        },
+        {
+          "id": "s3t2",
+          "opis": "Tekst linku",
+          "tekst": "Treningi"
+        },
+        {
+          "id": "s3t3",
+          "opis": "Tekst linku",
+          "tekst": "Dołącz"
+        }
+      ],
+      "zdjecia": []
+    },
+    {
+      "id": "s4",
+      "nazwa": "4. Okno zgody na cookies",
+      "teksty": [
+        {
+          "id": "s4t1",
+          "opis": "Nagłówek",
+          "tekst": "Pliki cookies"
+        },
+        {
+          "id": "s4t2",
+          "opis": "Akapit",
+          "tekst": "Strona używa tylko niezbędnych plików do działania. Za Twoją zgodą możemy też wyświetlać treści z zewnętrznych serwisów (mapa, Facebook) i zbierać anonimowe statystyki. Szczegóły w"
+        },
+        {
+          "id": "s4t3",
+          "opis": "Link w akapicie",
+          "tekst": "polityce prywatności"
+        },
+        {
+          "id": "s4t4",
+          "opis": "Tekst",
+          "tekst": "Wybierz zgody"
+        },
+        {
+          "id": "s4t5",
+          "opis": "Opis pola formularza",
+          "tekst": "Niezbędne – zawsze włączone"
+        },
+        {
+          "id": "s4t6",
+          "opis": "Opis pola formularza",
+          "tekst": "Statystyki odwiedzin"
+        },
+        {
+          "id": "s4t7",
+          "opis": "Opis pola formularza",
+          "tekst": "Treści zewnętrzne (mapa, Facebook)"
+        },
+        {
+          "id": "s4t8",
+          "opis": "Tekst przycisku",
+          "tekst": "Zapisz wybór"
+        },
+        {
+          "id": "s4t9",
+          "opis": "Tekst przycisku",
+          "tekst": "Akceptuję wszystkie"
+        },
+        {
+          "id": "s4t10",
+          "opis": "Tekst przycisku",
+          "tekst": "Tylko niezbędne"
+        },
+        {
+          "id": "s4t11",
+          "opis": "Tekst przycisku",
+          "tekst": "Ustawienia"
+        }
+      ],
+      "zdjecia": []
+    }
+  ]
+}
