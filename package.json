@@ -1,0 +1,13 @@
+{
+  "name": "uks-posejdon-pultusk",
+  "private": true,
+  "description": "Strona UKS Posejdon – Athletic Pułtusk z panelem administratora (Decap CMS)",
+  "scripts": {
+    "build": "node cms/build.js",
+    "extract": "node cms/extract.js"
+  },
+  "dependencies": {
+    "linkedom": "0.18.12"
+  },
+  "engines": { "node": ">=18" }
+}

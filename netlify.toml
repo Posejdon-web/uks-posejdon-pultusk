@@ -1,0 +1,12 @@
+# Netlify buduje stronę automatycznie po każdej publikacji z panelu (/admin)
+[build]
+  command = "npm run build"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"

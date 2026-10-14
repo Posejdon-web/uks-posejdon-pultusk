@@ -1,0 +1,25 @@
+# Jednorazowe przygotowanie plików z treściami dla panelu (uruchamiane ręcznie).
+name: Przygotuj treści dla panelu
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  przygotuj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: node cms/extract.js
+      - run: node cms/build.js
+      - run: node cms/sprawdz.js
+      - name: Zapisz treści w repozytorium
+        run: |
+          git config user.name "panel-bot"
+          git config user.email "panel-bot@users.noreply.github.com"
+          git add cms/tresci package-lock.json
+          git diff --cached --quiet || git commit -m "Przygotowano treści dla panelu administratora"
+          git push
