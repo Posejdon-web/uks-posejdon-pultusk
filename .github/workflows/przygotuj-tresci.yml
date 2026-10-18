@@ -2,6 +2,11 @@
 name: Przygotuj treści dla panelu
 on:
   workflow_dispatch:
+    inputs:
+      nadpisz:
+        description: 'Nadpisać istniejące treści treściami z szablonów? (UWAGA: kasuje zmiany z panelu)'
+        type: boolean
+        default: false
 permissions:
   contents: write
 jobs:
@@ -13,7 +18,7 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: node cms/extract.js
+      - run: node cms/extract.js ${{ inputs.nadpisz && '--force' || '' }}
       - run: node cms/build.js
       - run: node cms/sprawdz.js
       - name: Zapisz treści w repozytorium

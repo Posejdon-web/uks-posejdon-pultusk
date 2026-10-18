@@ -26,14 +26,14 @@ const sekcjeField = {
       name: 'teksty', label: 'Teksty', label_singular: 'tekst', widget: 'list', ...fixedList,
       collapsed: false, summary: '{{fields.opis}}: {{fields.tekst}}',
       hint: 'Teksty w kolejności, w jakiej są na stronie. Popraw treść w polu „Treść”. Puste pole = puste miejsce na stronie.',
-      fields: [hidden('id'), str('opis', 'Element strony (tylko informacja – nie zmieniaj)', { required: false }), txt('tekst', 'Treść', { required: false })],
+      fields: [hidden('id'), str('opis', 'Miejsce na stronie (podpowiedź)', { required: false }), txt('tekst', 'Treść', { required: false })],
     },
     {
       name: 'zdjecia', label: 'Zdjęcia', label_singular: 'zdjęcie', widget: 'list', ...fixedList,
       collapsed: false, summary: '{{fields.opis}}: {{fields.alt}}',
       hint: 'Aby wymienić zdjęcie, kliknij „Wybierz inny obraz” i wgraj nowy plik z komputera.',
       fields: [
-        hidden('id'), str('opis', 'Element strony (tylko informacja – nie zmieniaj)', { required: false }),
+        hidden('id'), str('opis', 'Miejsce na stronie (podpowiedź)', { required: false }),
         img('plik', 'Plik zdjęcia'),
         str('alt', 'Opis zdjęcia (dla niewidomych i Google)', { required: false }),
       ],
@@ -81,7 +81,7 @@ function config() {
     logo_url: '/assets/img/logo-emblem.png',
     show_preview_links: true,
     media_folder: 'assets/img',
-    public_folder: 'assets/img',
+    public_folder: '/assets/img',
     collections: [
       {
         name: 'podstrony', label: 'Treści podstron', label_singular: 'podstrona',
@@ -101,7 +101,7 @@ function config() {
             str('data', 'Data (np. 23.06.2026)'),
             str('tytul', 'Tytuł'),
             txt('tresc', 'Krótki opis'),
-            img('zdjecie', 'Zdjęcie (opcjonalnie)', { required: false }),
+            img('zdjecie', 'Zdjęcie', { required: false }),
             str('alt', 'Opis zdjęcia', { required: false }),
             txt('plansza', 'Napis na kolorowej planszy – gdy nie ma zdjęcia (nowa linia = Enter)', { required: false }),
             { name: 'plansza_kolor', label: 'Kolor planszy', widget: 'select', default: 'granat', options: [
@@ -117,7 +117,7 @@ function config() {
           listFile('trenerzy', 'Trenerzy', 'trenerzy', 'trenera', '{{fields.imie}} – {{fields.rola}}', [
             str('imie', 'Imię i nazwisko'), str('rola', 'Funkcja (np. Trener · grupy A, B)'),
             txt('opis', 'Opis na stronie „O klubie”'), txt('opis_glowna', 'Opis na stronie głównej', { required: false }),
-            img('zdjecie', 'Zdjęcie (opcjonalnie – bez zdjęcia pokażą się inicjały)', { required: false, media_folder: '/assets/img/trenerzy', public_folder: 'assets/img/trenerzy' }),
+            img('zdjecie', 'Zdjęcie (bez zdjęcia pokażą się inicjały)', { required: false, media_folder: '/assets/img/trenerzy', public_folder: '/assets/img/trenerzy' }),
             str('alt', 'Opis zdjęcia', { required: false }),
           ], 'Wyświetlani na stronie głównej i na stronie „O klubie”.'),
           listFile('galeria', 'Galeria zdjęć (strona główna)', 'galeria', 'zdjęcie', '{{fields.podpis}}', [
@@ -129,7 +129,7 @@ function config() {
           ], 'Kolejność na liście = kolejność na stronie. Najlepiej 7 zdjęć, w tym jedno duże i dwa szerokie.'),
           listFile('dokumenty', 'Dokumenty do pobrania', 'dokumenty', 'dokument', '{{fields.nazwa}}', [
             str('nazwa', 'Nazwa dokumentu'),
-            { name: 'plik', label: 'Plik (PDF, DOC…)', widget: 'file', choose_url: false, media_folder: '/dokumenty', public_folder: 'dokumenty' },
+            { name: 'plik', label: 'Plik (PDF, DOC…)', widget: 'file', choose_url: false, media_folder: '/dokumenty', public_folder: '/dokumenty' },
             str('opis', 'Opis pod nazwą', { default: 'PDF · do pobrania' }),
           ], 'Wyświetlane na stronie Kontakt w sekcji „Do pobrania”.'),
           listFile('sukcesy', 'Sukcesy – oś czasu (strona główna)', 'sukcesy', 'sukces', '{{fields.rok}} – {{fields.tytul}}', [

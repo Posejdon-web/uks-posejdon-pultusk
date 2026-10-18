@@ -1,6 +1,6 @@
 // Listy, w których można dodawać, usuwać i zmieniać kolejność elementów.
 'use strict';
-const { q, qa, clean, NEWS_CATS, normalizeAsset, initials, setText, setFirstText } = require('./lib');
+const { q, qa, clean, NEWS_CATS, normalizeAsset, toPanelPath, initials, setText, setFirstText } = require('./lib');
 
 const children = (el, sel) => Array.from(el.children).filter((c) => c.matches(sel));
 
@@ -37,7 +37,7 @@ const H = {
         const o = {
           imie: clean(q(a, 'h3').textContent),
           rola: clean(q(a, '.role').textContent),
-          zdjecie: img ? img.getAttribute('src') : '',
+          zdjecie: img ? toPanelPath(img.getAttribute('src')) : '',
           alt: img ? img.getAttribute('alt') : '',
         };
         o[place === 'index' ? 'opis_glowna' : 'opis'] = clean(q(a, '.body > p:not(.role)').textContent);
@@ -74,7 +74,7 @@ const H = {
           data: clean(q(a, '.meta > span:not(.chip)').textContent),
           tytul: clean(q(a, 'h3').textContent),
           tresc: clean(q(a, '.body > p').textContent),
-          zdjecie: img ? img.getAttribute('src') : '',
+          zdjecie: img ? toPanelPath(img.getAttribute('src')) : '',
           alt: img ? img.getAttribute('alt') : '',
           plansza: board ? q(board, 'b').innerHTML.split(/<br\s*\/?>/i).map(clean).join('\n') : '',
           plansza_kolor: board ? (board.getAttribute('class').replace('board', '').trim() || 'granat') : 'granat',
@@ -121,7 +121,7 @@ const H = {
       return items.map((p) => {
         const cls = p.getAttribute('class').split(/\s+/);
         return {
-          zdjecie: q(p, 'img').getAttribute('src'),
+          zdjecie: toPanelPath(q(p, 'img').getAttribute('src')),
           alt: q(p, 'img').getAttribute('alt'),
           podpis: clean(q(p, '.tag').textContent),
           kategoria: p.getAttribute('data-cat'),
@@ -145,7 +145,7 @@ const H = {
     extract(items) {
       return items.map((li) => ({
         nazwa: clean(q(li, 'b').textContent),
-        plik: q(li, 'a').getAttribute('href'),
+        plik: toPanelPath(q(li, 'a').getAttribute('href')),
         opis: clean(q(li, 'a > span > span').textContent),
       }));
     },

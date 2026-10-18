@@ -201,7 +201,7 @@ function mapScope(doc, slug, scope) {
         id: `s${i + 1}z${j + 1}`,
         node: img,
         opis: 'Zdjęcie ' + (j + 1),
-        plik: img.getAttribute('src') || '',
+        plik: toPanelPath(img.getAttribute('src') || ''),
         alt: img.getAttribute('alt') || '',
       })),
     };
@@ -242,10 +242,16 @@ function applyScope(mapped, data) {
     for (const z of s.zdjecia) {
       const d = byId.get(z.id);
       if (!d) continue;
-      if (d.plik && d.plik !== z.plik) z.node.setAttribute('src', normalizeAsset(d.plik));
+      if (d.plik && normalizeAsset(d.plik) !== normalizeAsset(z.plik)) z.node.setAttribute('src', normalizeAsset(d.plik));
       if (d.alt != null && d.alt !== z.alt) z.node.setAttribute('alt', d.alt);
     }
   }
+}
+
+// W panelu ścieżki plików zaczynają się od „/” (wtedy panel pokazuje podgląd zdjęcia).
+function toPanelPath(p) {
+  if (!p || /^(https?:)?\/\//.test(p) || p.startsWith('/') || p.startsWith('#') || /^(mailto|tel):/.test(p)) return p;
+  return '/' + p;
 }
 
 function normalizeAsset(p) {
@@ -268,6 +274,6 @@ function setFirstText(el, val) {
 
 module.exports = {
   fs, path, ROOT, DATA, PAGES, LISTS, ORIGINAL_CONTACT, NEWS_CATS, parseHTML,
-  readTemplate, q, qa, clean, mapScope, stripNodes, applyScope, normalizeAsset,
+  readTemplate, q, qa, clean, mapScope, stripNodes, applyScope, normalizeAsset, toPanelPath,
   initials, setText, setFirstText, HAS_CONTENT,
 };
