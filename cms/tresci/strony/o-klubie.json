@@ -38,7 +38,7 @@
         {
           "id": "s1z1",
           "opis": "Zdjęcie 1",
-          "plik": "assets/img/foto/foto-07.jpg",
+          "plik": "/assets/img/foto/foto-07.jpg",
           "alt": ""
         }
       ]
@@ -72,7 +72,7 @@
         {
           "id": "s2z1",
           "opis": "Zdjęcie 1",
-          "plik": "assets/img/foto/foto-26.jpg",
+          "plik": "/assets/img/foto/foto-26.jpg",
           "alt": "Zawodnicy UKS Posejdon na zawodach Mikołajkowych"
         }
       ]

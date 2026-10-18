@@ -33,7 +33,7 @@
         {
           "id": "s1z1",
           "opis": "Zdjęcie 1",
-          "plik": "assets/img/foto/foto-05.jpg",
+          "plik": "/assets/img/foto/foto-05.jpg",
           "alt": ""
         }
       ]

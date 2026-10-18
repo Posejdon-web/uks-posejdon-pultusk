@@ -33,7 +33,7 @@
         {
           "id": "s1z1",
           "opis": "Zdjęcie 1",
-          "plik": "assets/img/treningi/plywalnia-miejska-pultusk-basen-sportowy-uks-posejdon.jpg",
+          "plik": "/assets/img/treningi/plywalnia-miejska-pultusk-basen-sportowy-uks-posejdon.jpg",
           "alt": "Basen sportowy pływalni miejskiej w Pułtusku podczas zawodów pływackich"
         }
       ]
@@ -422,31 +422,31 @@
         {
           "id": "s2z1",
           "opis": "Zdjęcie 1",
-          "plik": "assets/img/treningi/wyscig-kraulem-zawody-plywackie-pultusk-uks-posejdon.jpg",
+          "plik": "/assets/img/treningi/wyscig-kraulem-zawody-plywackie-pultusk-uks-posejdon.jpg",
           "alt": "Wyścig stylem dowolnym na zawodach pływackich na pływalni miejskiej w Pułtusku"
         },
         {
           "id": "s2z2",
           "opis": "Zdjęcie 2",
-          "plik": "assets/img/treningi/trening-plywacki-zawodnicy-uks-posejdon-pultusk-basen-sportowy.jpg",
+          "plik": "/assets/img/treningi/trening-plywacki-zawodnicy-uks-posejdon-pultusk-basen-sportowy.jpg",
           "alt": "Zawodnicy UKS Posejdon – Athletic Pułtusk przy ścianie basenu sportowego przed startem"
         },
         {
           "id": "s2z3",
           "opis": "Zdjęcie 3",
-          "plik": "assets/img/foto/foto-09.jpg",
+          "plik": "/assets/img/foto/foto-09.jpg",
           "alt": ""
         },
         {
           "id": "s2z4",
           "opis": "Zdjęcie 4",
-          "plik": "assets/img/foto/foto-05.jpg",
+          "plik": "/assets/img/foto/foto-05.jpg",
           "alt": ""
         },
         {
           "id": "s2z5",
           "opis": "Zdjęcie 5",
-          "plik": "assets/img/treningi/zajecia-nauki-plywania-dla-dzieci-6-7-lat-uks-posejdon-pultusk.jpg",
+          "plik": "/assets/img/treningi/zajecia-nauki-plywania-dla-dzieci-6-7-lat-uks-posejdon-pultusk.jpg",
           "alt": "Zajęcia nauki pływania dla dzieci 6–7 lat z trenerką UKS Posejdon na pływalni w Pułtusku"
         }
       ]

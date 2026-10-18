@@ -3,7 +3,7 @@
     {
       "imie": "Mariusz Osica",
       "rola": "Trener · grupy D, E",
-      "zdjecie": "assets/img/trenerzy/mariusz-osica.jpg",
+      "zdjecie": "/assets/img/trenerzy/mariusz-osica.jpg",
       "alt": "Mariusz Osica – trener UKS Posejdon – Athletic Pułtusk",
       "opis_glowna": "Założyciel klubu i trener od 2012 roku. Prowadzi zajęcia na basenie rekreacyjnym.",
       "opis": "Założyciel klubu i trener od 2012 roku."
@@ -11,7 +11,7 @@
     {
       "imie": "Mariusz Mroziewicz",
       "rola": "Trener · grupy A, B, C",
-      "zdjecie": "assets/img/trenerzy/mariusz-mroziewicz.jpg",
+      "zdjecie": "/assets/img/trenerzy/mariusz-mroziewicz.jpg",
       "alt": "Mariusz Mroziewicz – trener UKS Posejdon – Athletic Pułtusk",
       "opis_glowna": "W klubie od początku. Przygotował zawodników do 15 medali na Mistrzostwach Warszawy i finału OMDO 2026.",
       "opis": "W klubie od początku. Trener medalistów Mistrzostw Polski i Mistrzostw Warszawy."

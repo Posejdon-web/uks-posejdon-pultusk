@@ -2,22 +2,22 @@
   "elementy": [
     {
       "nazwa": "Deklaracja członkowska",
-      "plik": "dokumenty/deklaracja-czlonkowska.pdf",
+      "plik": "/dokumenty/deklaracja-czlonkowska.pdf",
       "opis": "PDF · do pobrania"
     },
     {
       "nazwa": "Regulamin klubu",
-      "plik": "dokumenty/regulamin-klubu.pdf",
+      "plik": "/dokumenty/regulamin-klubu.pdf",
       "opis": "PDF · do pobrania"
     },
     {
       "nazwa": "Oświadczenie RODO i wizerunek",
-      "plik": "dokumenty/oswiadczenie-rodo-wizerunek.pdf",
+      "plik": "/dokumenty/oswiadczenie-rodo-wizerunek.pdf",
       "opis": "PDF · do pobrania"
     },
     {
       "nazwa": "Oświadczenie zdrowia – Masters",
-      "plik": "dokumenty/oswiadczenie-zdrowia-masters.pdf",
+      "plik": "/dokumenty/oswiadczenie-zdrowia-masters.pdf",
       "opis": "PDF · do pobrania"
     }
   ]
