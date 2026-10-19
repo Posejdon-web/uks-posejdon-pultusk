@@ -10,3 +10,10 @@
   for = "/admin/*"
   [headers.values]
     X-Robots-Tag = "noindex"
+
+# Stary adres Netlify przekierowuje na domenę klubu
+[[redirects]]
+  from = "https://uks-posejdon-pultusk.netlify.app/*"
+  to = "https://posejdonpultusk.pl/:splat"
+  status = 301
+  force = true
