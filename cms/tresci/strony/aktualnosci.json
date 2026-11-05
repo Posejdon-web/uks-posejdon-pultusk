@@ -43,30 +43,30 @@
         {
           "id": "s2t2",
           "opis": "Tekst",
-          "tekst": "12–13 czerwca 2026"
+          "tekst": "24 października 2026"
         },
         {
           "id": "s2t3",
           "opis": "Nagłówek",
-          "tekst": "15 medali na Mistrzostwach Warszawy"
+          "tekst": "9 medali na Mistrzostwach Ostrołęki"
         },
         {
           "id": "s2t4",
           "opis": "Akapit",
-          "tekst": "Na 50-metrowej pływalni Warszawianki odbyły się Otwarte Letnie Mistrzostwa Warszawy w Pływaniu. Barwy klubu reprezentowali Róża Zimnicka, Adam Mroziewicz, Jan Zimnicki i Roman Łyszkowski. Zawodnicy zdobyli 15 medali i ustanowili wiele rekordów życiowych, a Adam Mroziewicz wygrał 200 m stylem motylkowym z czasem 2:37,89."
+          "tekst": "24 października nasi pływacy wystartowali w XV Otwartych Mistrzostwach Ostrołęki w Pływaniu. UKS Posejdon Pułtusk zdobył 9 medali – 6 złotych i 3 brązowe – i zajął 3. miejsce w klasyfikacji medalowej. Po trzy zwycięstwa odnieśli Adam Mroziewicz (m.in. 100 m stylem dowolnym – 57,96) i Róża Zimnicka (m.in. 50 m stylem dowolnym – 34,32)."
         },
         {
           "id": "s2t5",
           "opis": "Akapit",
-          "tekst": "Gratulujemy zawodnikom, a trenerowi Mariuszowi Mroziewiczowi dziękujemy za przygotowanie do startu."
+          "tekst": "Brązowe medale zdobyli Gabriel Małecki (100 m stylem klasycznym), Roman Łyszkowski (100 m stylem grzbietowym) i Helena Małecka (25 m stylem klasycznym), a sztafeta 4 × 50 m stylem dowolnym zajęła 5. miejsce (2:17,81). Gratulujemy wszystkim zawodnikom!"
         }
       ],
       "zdjecia": [
         {
           "id": "s2z1",
           "opis": "Zdjęcie 1",
-          "plik": "/assets/img/zawody/15-medali-uks-posejdon-mistrzostwa-warszawy-2026.jpg",
-          "alt": "15 medali zdobytych przez zawodników UKS Posejdon na Mistrzostwach Warszawy 2026"
+          "plik": "/assets/img/uks-posejdon-mistrzostwa-ostroleki-2026.jpg",
+          "alt": "Zawodnicy UKS Posejdon Pułtusk z trenerami na XV Otwartych Mistrzostwach Ostrołęki w Pływaniu 2026"
         }
       ]
     },
