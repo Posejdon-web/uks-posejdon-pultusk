@@ -1,6 +1,27 @@
 {
   "elementy": [
     {
+      "rozmiar": "szerokie",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z trenerami na XV Otwartych Mistrzostwach Ostrołęki w Pływaniu 2026",
+      "podpis": "Mistrzostwa Ostrołęki 2026",
+      "zdjecie": "/assets/img/uks-posejdon-mistrzostwa-ostroleki-2026.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z medalami na zawodach w Ciechanowie, 17 października 2026",
+      "podpis": "Zawody w Ciechanowie",
+      "zdjecie": "/assets/img/uks-posejdon-zawody-ciechanow-2026.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z dyplomami na X Sprinterskim Festiwalu Pływackim Warszawianka 2026",
+      "podpis": "Sprinterski Festiwal Warszawianka",
+      "zdjecie": "/assets/img/uks-posejdon-sprinterski-festiwal-warszawianka-2026.jpg",
+      "kategoria": "wyj"
+    },
+    {
       "zdjecie": "/assets/img/zawody/zawodnicy-uks-posejdon-z-dyplomami-final-omdo-2026.jpg",
       "alt": "Zawodnicy UKS Posejdon z dyplomami na finale „Od Młodzika do Olimpijczyka” 2026",
       "podpis": "Finał OMDO 2026",
