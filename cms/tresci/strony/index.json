@@ -628,17 +628,17 @@
         {
           "id": "s8t5",
           "opis": "Tekst",
-          "tekst": "23.06.2026"
+          "tekst": "24.10.2026"
         },
         {
           "id": "s8t6",
           "opis": "Podtytuł",
-          "tekst": "Finał „Od Młodzika do Olimpijczyka”"
+          "tekst": "9 medali na Mistrzostwach Ostrołęki"
         },
         {
           "id": "s8t7",
           "opis": "Akapit",
-          "tekst": "Srebro Adama Mroziewicza na 100 m stylem motylkowym (1:05,05) i miejsca w czołówce klasyfikacji końcowej OMDO 2025/2026."
+          "tekst": "6 złotych i 3 brązowe medale oraz 3. miejsce w klasyfikacji medalowej XV Otwartych Mistrzostw Ostrołęki. Po trzy zwycięstwa Adama Mroziewicza i Róży Zimnickiej."
         },
         {
           "id": "s8t8",
@@ -653,17 +653,17 @@
         {
           "id": "s8t10",
           "opis": "Tekst",
-          "tekst": "12–13.06.2026"
+          "tekst": "17.10.2026"
         },
         {
           "id": "s8t11",
           "opis": "Podtytuł",
-          "tekst": "15 medali na Mistrzostwach Warszawy"
+          "tekst": "Seria zwycięstw w Ciechanowie"
         },
         {
           "id": "s8t12",
           "opis": "Akapit",
-          "tekst": "Róża Zimnicka, Adam Mroziewicz, Jan Zimnicki i Roman Łyszkowski wracają z Warszawianki z 15 medalami i rekordami życiowymi."
+          "tekst": "Adam Mroziewicz wygrał wszystkie 7 startów, a Róża Zimnicka zdobyła 5 złotych i srebrny medal na pływalni „U Ciecha”."
         },
         {
           "id": "s8t13",
@@ -710,14 +710,14 @@
         {
           "id": "s8z1",
           "opis": "Zdjęcie 1",
-          "plik": "/assets/img/zawody/uks-posejdon-pultusk-final-omdo-2026-druzyna-z-trenerem.jpg",
-          "alt": "Zawodnicy UKS Posejdon – Athletic Pułtusk z trenerem na finale OMDO 2026"
+          "plik": "/assets/img/uks-posejdon-mistrzostwa-ostroleki-2026.jpg",
+          "alt": "Zawodnicy UKS Posejdon Pułtusk z trenerami na XV Otwartych Mistrzostwach Ostrołęki w Pływaniu 2026"
         },
         {
           "id": "s8z2",
           "opis": "Zdjęcie 2",
-          "plik": "/assets/img/zawody/uks-posejdon-pultusk-mistrzostwa-warszawy-2026-druzyna.jpg",
-          "alt": "Drużyna UKS Posejdon – Athletic Pułtusk na Otwartych Letnich Mistrzostwach Warszawy 2026"
+          "plik": "/assets/img/uks-posejdon-zawody-ciechanow-2026.jpg",
+          "alt": "Zawodnicy UKS Posejdon Pułtusk z medalami na zawodach w Ciechanowie, 17 października 2026"
         }
       ]
     },
