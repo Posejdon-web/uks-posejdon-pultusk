@@ -1,9 +1,9 @@
 {
   "elementy": [
     {
-      "zdjecie": "/assets/img/zawody/zawodnicy-uks-posejdon-z-dyplomami-final-omdo-2026.jpg",
-      "alt": "Zawodnicy UKS Posejdon z dyplomami na finale „Od Młodzika do Olimpijczyka” 2026",
-      "podpis": "Finał OMDO 2026",
+      "zdjecie": "/assets/img/uks-posejdon-mistrzostwa-ostroleki-2026.jpg",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z trenerami na XV Otwartych Mistrzostwach Ostrołęki w Pływaniu 2026",
+      "podpis": "Mistrzostwa Ostrołęki 2026",
       "kategoria": "zaw",
       "rozmiar": "duze"
     },
@@ -15,9 +15,9 @@
       "rozmiar": "zwykle"
     },
     {
-      "zdjecie": "/assets/img/zawody/zawodniczka-uks-posejdon-z-trenerem-mistrzostwa-warszawy-2026.jpg",
-      "alt": "Zawodniczka UKS Posejdon z trenerem na Mistrzostwach Warszawy 2026",
-      "podpis": "Mistrzostwa Warszawy",
+      "zdjecie": "/assets/img/uks-posejdon-zawody-ciechanow-2026.jpg",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z medalami na zawodach w Ciechanowie, 17 października 2026",
+      "podpis": "Zawody w Ciechanowie",
       "kategoria": "zaw",
       "rozmiar": "zwykle"
     },
@@ -36,9 +36,9 @@
       "rozmiar": "zwykle"
     },
     {
-      "zdjecie": "/assets/img/zawody/uks-posejdon-pultusk-mistrzostwa-warszawy-2026-druzyna.jpg",
-      "alt": "Drużyna UKS Posejdon – Athletic Pułtusk na Otwartych Letnich Mistrzostwach Warszawy 2026",
-      "podpis": "Wyjazd na Warszawiankę",
+      "zdjecie": "/assets/img/uks-posejdon-sprinterski-festiwal-warszawianka-2026.jpg",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z dyplomami na X Sprinterskim Festiwalu Pływackim Warszawianka 2026",
+      "podpis": "Sprinterski Festiwal Warszawianka",
       "kategoria": "wyj",
       "rozmiar": "szerokie"
     },
