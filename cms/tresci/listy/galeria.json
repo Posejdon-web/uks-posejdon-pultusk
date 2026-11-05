@@ -22,6 +22,76 @@
       "kategoria": "wyj"
     },
     {
+      "rozmiar": "szerokie",
+      "alt": "Dekoracja zawodniczek na XV Otwartych Mistrzostwach Ostrołęki w Pływaniu 2026",
+      "podpis": "Dekoracja w Ostrołęce",
+      "zdjecie": "/assets/img/ostroleka-2026-dekoracja.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Zawodniczka UKS Posejdon Pułtusk na podium XV Otwartych Mistrzostw Ostrołęki 2026",
+      "podpis": "Podium w Ostrołęce",
+      "zdjecie": "/assets/img/ostroleka-2026-podium-1.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Zawodniczka UKS Posejdon Pułtusk przed startem na Mistrzostwach Ostrołęki 2026",
+      "podpis": "Start w Ostrołęce",
+      "zdjecie": "/assets/img/ostroleka-2026-start.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "szerokie",
+      "alt": "Zawodnik UKS Posejdon Pułtusk płynie stylem motylkowym na zawodach w Ciechanowie 2026",
+      "podpis": "Motylkiem w Ciechanowie",
+      "zdjecie": "/assets/img/ciechanow-2026-motylek.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Helena Małecka z UKS Posejdon Pułtusk z dyplomem i medalem, zawody w Ciechanowie 2026",
+      "podpis": "Helena Małecka – Ciechanów",
+      "zdjecie": "/assets/img/ciechanow-2026-helena-malecka.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Roman Łyszkowski z UKS Posejdon Pułtusk z medalem i dyplomem, zawody w Ciechanowie 2026",
+      "podpis": "Roman Łyszkowski – Ciechanów",
+      "zdjecie": "/assets/img/ciechanow-2026-roman-lyszkowski.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Zawodnik UKS Posejdon Pułtusk na najwyższym stopniu podium, zawody w Ciechanowie 2026",
+      "podpis": "Podium w Ciechanowie",
+      "zdjecie": "/assets/img/ciechanow-2026-podium-zwyciezca.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Dekoracja zawodniczek na zawodach w Ciechanowie 2026",
+      "podpis": "Dekoracja w Ciechanowie",
+      "zdjecie": "/assets/img/ciechanow-2026-podium.jpg",
+      "kategoria": "zaw"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Róża Zimnicka z UKS Posejdon Pułtusk z dyplomem i medalem, X Sprinterski Festiwal Pływacki Warszawianka 2026",
+      "podpis": "Róża Zimnicka – Warszawianka",
+      "zdjecie": "/assets/img/warszawianka-2026-roza-zimnicka.jpg",
+      "kategoria": "wyj"
+    },
+    {
+      "rozmiar": "zwykle",
+      "alt": "Adam Mroziewicz z UKS Posejdon Pułtusk z dyplomem i medalem, X Sprinterski Festiwal Pływacki Warszawianka 2026",
+      "podpis": "Adam Mroziewicz – Warszawianka",
+      "zdjecie": "/assets/img/warszawianka-2026-adam-mroziewicz.jpg",
+      "kategoria": "wyj"
+    },
+    {
       "zdjecie": "/assets/img/zawody/zawodnicy-uks-posejdon-z-dyplomami-final-omdo-2026.jpg",
       "alt": "Zawodnicy UKS Posejdon z dyplomami na finale „Od Młodzika do Olimpijczyka” 2026",
       "podpis": "Finał OMDO 2026",
