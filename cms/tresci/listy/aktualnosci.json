@@ -2,80 +2,110 @@
   "elementy": [
     {
       "kategoria": "zawody",
-      "data": "23.06.2026",
+      "plansza_kolor": "granat",
+      "link": "/aktualnosci",
+      "data": "17.10.2026",
+      "tytul": "Seria zwycięstw w Ciechanowie",
+      "tresc": "Na pływalni „U Ciecha” Adam Mroziewicz (rocznik 2013) wygrał wszystkie 7 startów, a Róża Zimnicka (rocznik 2016) zdobyła 5 złotych i srebrny medal. Złoto i srebro wywalczyła też Marysia Puchalska, a Jan Zimnicki – dwa srebrne medale. Gościem honorowym zawodów był olimpijczyk Szymon Kołecki.",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z medalami na zawodach w Ciechanowie, 17 października 2026",
+      "zdjecie": "/assets/img/uks-posejdon-zawody-ciechanow-2026.jpg"
+    },
+    {
+      "kategoria": "zawody",
+      "plansza_kolor": "granat",
+      "link": "/aktualnosci",
+      "data": "03.10.2026",
+      "tytul": "6 medali na Sprinterskim Festiwalu Warszawianka",
+      "tresc": "W X Sprinterskim Festiwalu Pływackim WARSZAWIANKA 2026 klub zdobył 6 medali – 3 złote i 3 srebrne. Medale wywalczyli Róża Zimnicka i Adam Mroziewicz (m.in. 50 m stylem dowolnym – 27,23), a Roman Łyszkowski zajął 4. miejsce na 50 m stylem klasycznym.",
+      "alt": "Zawodnicy UKS Posejdon Pułtusk z dyplomami na X Sprinterskim Festiwalu Pływackim Warszawianka 2026",
+      "zdjecie": "/assets/img/uks-posejdon-sprinterski-festiwal-warszawianka-2026.jpg"
+    },
+    {
       "tytul": "Finał „Od Młodzika do Olimpijczyka”",
+      "alt": "Adam Mroziewicz ze srebrnym medalem za 100 m stylem motylkowym, finał OMDO 2026",
+      "data": "23.06.2026",
+      "plansza": "",
       "tresc": "Klasyfikacja końcowa OMDO 2025/2026: Adam Mroziewicz (rocznik 2013) – 5. miejsce, Róża Zimnicka (rocznik 2016) – 6. miejsce. W finale Adam zdobył srebro na 100 m stylem motylkowym (1:05,05), a Róża i Roman Łyszkowski zajęli 4. miejsca.",
       "zdjecie": "/assets/img/zawody/adam-mroziewicz-srebro-100-m-motylkowym-omdo-2026.jpg",
-      "alt": "Adam Mroziewicz ze srebrnym medalem za 100 m stylem motylkowym, finał OMDO 2026",
-      "plansza": "",
-      "plansza_kolor": "granat",
-      "link": "#omdo-wyniki"
+      "link": "#omdo-wyniki",
+      "kategoria": "zawody",
+      "plansza_kolor": "granat"
     },
     {
-      "kategoria": "ogloszenia",
-      "data": "Sezon 2026/2027",
+      "kategoria": "zawody",
+      "plansza_kolor": "granat",
+      "link": "/aktualnosci",
+      "data": "12–13.06.2026",
+      "tytul": "15 medali na Mistrzostwach Warszawy",
+      "tresc": "Na 50-metrowej pływalni Warszawianki barwy klubu reprezentowali Róża Zimnicka, Adam Mroziewicz, Jan Zimnicki i Roman Łyszkowski. Zawodnicy zdobyli 15 medali, a Adam Mroziewicz wygrał 200 m stylem motylkowym z czasem 2:37,89.",
+      "alt": "15 medali zdobytych przez zawodników UKS Posejdon na Mistrzostwach Warszawy 2026",
+      "zdjecie": "/assets/img/15-medali-mistrzostwa-warszawy-2026.jpg"
+    },
+    {
       "tytul": "Grafik zajęć na sezon 2026/2027",
+      "alt": "",
+      "data": "Sezon 2026/2027",
+      "plansza": "Grafik\n2026/2027",
       "tresc": "Pięć grup treningowych (A–E), zajęcia w poniedziałki, środy i piątki.",
       "zdjecie": "",
-      "alt": "",
-      "plansza": "Grafik\n2026/2027",
-      "plansza_kolor": "granat",
-      "link": "/treningi#grafik"
+      "link": "/treningi#grafik",
+      "kategoria": "ogloszenia",
+      "plansza_kolor": "granat"
     },
     {
-      "kategoria": "zawody",
-      "data": "26.07.2023",
       "tytul": "Brąz Mistrzostw Polski 14-latków dla Franka Łyszkowskiego",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "data": "26.07.2023",
+      "plansza": "",
       "tresc": "7. czas eliminacji (1:12,02), a w finale A brązowy medal z czasem 1:10,59 na 100 m stylem klasycznym.",
       "zdjecie": "/assets/img/foto/foto-04.jpg",
-      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
-      "plansza": "",
-      "plansza_kolor": "granat",
-      "link": "/aktualnosci"
+      "link": "/aktualnosci",
+      "kategoria": "zawody",
+      "plansza_kolor": "granat"
     },
     {
-      "kategoria": "dotacje",
-      "data": "27.12.2025",
       "tytul": "12 000 zł z programu „Klub” 2025",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "data": "27.12.2025",
+      "plansza": "",
       "tresc": "Dofinansowanie z Ministerstwa Sportu i Turystyki na sprzęt treningowy i zajęcia.",
       "zdjecie": "/assets/img/foto/foto-26.jpg",
-      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
-      "plansza": "",
-      "plansza_kolor": "granat",
-      "link": "/aktualnosci"
+      "link": "/aktualnosci",
+      "kategoria": "dotacje",
+      "plansza_kolor": "granat"
     },
     {
-      "kategoria": "wydarzenia",
-      "data": "[data]",
       "tytul": "Zawody Mikołajkowe na pływalni w Pułtusku",
+      "alt": "",
+      "data": "[data]",
+      "plansza": "Zawody\nMikołajkowe",
       "tresc": "Coroczne zawody organizowane wspólnie z MOSiR Pułtusk. [relacja i wyniki]",
       "zdjecie": "",
-      "alt": "",
-      "plansza": "Zawody\nMikołajkowe",
-      "plansza_kolor": "sky",
-      "link": "/aktualnosci"
+      "link": "/aktualnosci",
+      "kategoria": "wydarzenia",
+      "plansza_kolor": "sky"
     },
     {
-      "kategoria": "zawody",
-      "data": "[data]",
       "tytul": "[Wyniki zawodów okręgowych]",
+      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
+      "data": "[data]",
+      "plansza": "",
       "tresc": "[Krótkie podsumowanie startu zawodników klubu]",
       "zdjecie": "/assets/img/foto/foto-11.jpg",
-      "alt": "Zdjęcie z zajęć lub zawodów UKS Posejdon",
-      "plansza": "",
-      "plansza_kolor": "granat",
-      "link": "/aktualnosci"
+      "link": "/aktualnosci",
+      "kategoria": "zawody",
+      "plansza_kolor": "granat"
     },
     {
-      "kategoria": "wydarzenia",
-      "data": "2015",
       "tytul": "Kurs sędziów pływackich w Pułtusku",
+      "alt": "",
+      "data": "2015",
+      "plansza": "12 nowych\nsędziów",
       "tresc": "Klub zorganizował kurs sędziowski – egzamin na sędziego pływania zdało 12 osób.",
       "zdjecie": "",
-      "alt": "",
-      "plansza": "12 nowych\nsędziów",
-      "plansza_kolor": "blue",
-      "link": "/aktualnosci"
+      "link": "/aktualnosci",
+      "kategoria": "wydarzenia",
+      "plansza_kolor": "blue"
     }
   ]
 }
