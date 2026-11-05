@@ -559,45 +559,45 @@
         {
           "id": "s7t10",
           "opis": "Tekst",
-          "tekst": "Złoty medal · 2026"
+          "tekst": "Złote medale · październik 2026"
         },
         {
           "id": "s7t11",
           "opis": "Podtytuł",
-          "tekst": "Adam Mroziewicz"
+          "tekst": "Adam Mroziewicz i Róża Zimnicka"
         },
         {
           "id": "s7t12",
           "opis": "Akapit",
-          "tekst": "Otwarte Letnie Mistrzostwa Warszawy, pływalnia Warszawianki (basen 50 m), czerwiec 2026. Jedno z 15 miejsc medalowych klubu na tych zawodach."
+          "tekst": "Październik 2026: Adam Mroziewicz wygrał 7 z 7 startów w Ciechanowie i 3 konkurencje na XV Otwartych Mistrzostwach Ostrołęki, a Róża Zimnicka zdobyła 5 złotych i srebrny medal w Ciechanowie oraz 3 złote w Ostrołęce."
         },
         {
           "id": "s7t13",
           "opis": "Mały tekst / etykieta",
-          "tekst": "Złoto"
+          "tekst": "Adam"
         },
         {
           "id": "s7t14",
-          "opis": "Wartość: Złoto",
-          "tekst": "2:37,89"
+          "opis": "Wartość: Adam",
+          "tekst": "10"
         },
         {
           "id": "s7t15",
           "opis": "Mały tekst / etykieta",
-          "tekst": "Styl motylkowy"
+          "tekst": "Róża"
         },
         {
           "id": "s7t16",
-          "opis": "Wartość: Styl motylkowy",
-          "tekst": "200 m"
+          "opis": "Wartość: Róża",
+          "tekst": "8"
         }
       ],
       "zdjecia": [
         {
           "id": "s7z1",
           "opis": "Zdjęcie 1",
-          "plik": "/assets/img/zawody/15-medali-uks-posejdon-mistrzostwa-warszawy-2026.jpg",
-          "alt": "Medale i dyplom Adama Mroziewicza z Otwartych Letnich Mistrzostw Warszawy 2026"
+          "plik": "/assets/img/uks-posejdon-mistrzostwa-ostroleki-2026.jpg",
+          "alt": "Zawodnicy UKS Posejdon Pułtusk z trenerami na XV Otwartych Mistrzostwach Ostrołęki w Pływaniu 2026"
         }
       ]
     },
